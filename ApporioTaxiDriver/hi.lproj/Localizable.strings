@@ -1,0 +1,2302 @@
+/* 
+  File.strings
+  ApporioTaxiDriver
+
+  Created by apple on 2/23/19.
+  Copyright © 2019 Atul Jain. All rights reserved.
+*/
+
+"Apporio Taxi Driver" = "Apporio टैक्सी चालक";
+"REGISTER" = "रजिस्टर";
+"LOGIN" = "लॉग इन करें";
+"DEMO" = "डेमो";
+"Alert" = "चेतावनी";
+"Make sure you logged as Dem in Driver App as well." = "सुनिश्चित करें कि आप के रूप में अच्छी ड्राइवर App में डेम के रूप में लॉग करें।";
+"CANCEL" = "रद्द करना";
+"OK" = "ठीक";
+"Login" = "लॉग इन करें";
+"Select City" = "शहर चुनें";
+"Forgot Password?" = "पासवर्ड भूल गए?";
+"Email" = "ईमेल";
+"Phone Number" = "फ़ोन नंबर";
+"Please Enter Password" = "कृप्या पास्वर्ड भरो";
+"Please Enter Valid Email_Address" = "कृपया मान्य ईमेल पता दर्ज करें";
+"Please Enter Password" = "कृप्या पास्वर्ड भरो";
+"Please Enter Valid Phone Number" = "कृपया एक वैध नंबर डालें";
+"Register" = "रजिस्टर";
+"Enter Full Name" = "पूरा नाम दर्ज करें";
+"Enter Email" = "ईमेल दर्ज करें";
+"Enter Mobile" = "मोबाइल दर्ज";
+"Enter Password" = "पास वर्ड दर्ज करें";
+"Gender" = "लिंग";
+"Male" = "पुरुष";
+"Female" = "महिला";
+"Smoker" = "धूम्रपान न करने";
+"Yes" = "हाँ";
+"No" = "नहीं";
+"Select Area" = "क्षेत्र का चयन करें";
+"Continue" = "जारी रहना";
+"Select City" = "शहर चुनें";
+"Select Option" = "विकल्प चुनें";
+"Camera" = "कैमरा";
+"Gallery" = "गेलरी";
+"Cancel" = "रद्द करना";
+"Please Enter Name" = "कृपया नाम दर्ज करें";
+"Please Enter Mobile Number First" = "कृपया दर्ज मोबाइल नंबर पहले";
+"Password length should not be less then 6" = "पासवर्ड लंबाई से कम 6 नहीं होना चाहिए";
+"Please Select Image First" = "कृपया चुनें छवि पहले";
+"Please Select Area First" = "कृपया चुनें क्षेत्र पहले";
+"Please Select Gender First" = "कृपया लिंग का चयन पहले";
+"Please Select Option Regarding Smoke" = "कृपया विकल्प के बारे में धुआं का चयन करें";
+"Please fill email properly." = "कृपया ईमेल ठीक से भरें।";
+"Enter Name" = "नाम दर्ज";
+"Enter Phone/Email" = "दर्ज फोन / ईमेल";
+"Please enter your name and details for the identification of your demo driver" = "आपके डेमो चालक की पहचान के लिए आपके नाम और विवरण दर्ज करें";
+"Login As Demo" = "डेमो के रूप में प्रवेश";
+"Or Skip Entering Details" = "या छोड़ प्रवेश कर विवरण";
+"Add Vehicle" = "वाहन जोड़े";
+"Create Vehicle" = "वाहन बनाएं";
+"Select Vehicle Type" = "चुनें वाहन के प्रकार";
+"Click to select" = "चुनने के लिए क्लिक करें";
+"Select Vehicle Make" = "वाहन बनाने का चयन करें";
+"Select Vehicle Model" = "वाहन मॉडल चुनें";
+"Type of Service" = "सेवा का प्रकार";
+"Add Vehicle Details" = "वाहन विवरण जोड़ें";
+"Enter Vehicle number" = "वाहन संख्या लिखें";
+"Enter Vehicle Color" = "वाहन रंग दर्ज करें";
+"Select Number Plate Image" = "संख्या का चयन करें प्लेट छवि";
+"Select Vehicle Photo" = "वाहन फोटो का चयन करें";
+"Please select vehicle type first" = "कृपया वाहन प्रकार पहले चयन";
+"Please select vehicle make first" = "कृपया वाहन पहले बनाने का चयन";
+"Please select vehicle model first" = "कृपया वाहन मॉडल पहले चयन";
+"Please select type of services" = "कृपया सेवाओं के प्रकार का चयन";
+"Please enter car color first" = "पहली कार रंग डालें";
+"Please enter vehicle number first" = "पहला वाहन संख्या दर्ज करें";
+"Please enter vehicle number plate image first" = "पहला वाहन नंबर प्लेट छवि डालें";
+"Please enter vehicle image first" = "पहला वाहन छवि डालें";
+"Select Type Of Services" = "सेवा के प्रकार का चयन";
+"Documents" = "दस्तावेज़";
+"Personal Documents" = "व्यक्तिगत दस्तावेज";
+"Vehicle Documents" = "वाहन दस्तावेज़";
+"Documents Not uploaded" = "दस्तावेज़ अपलोड नहीं";
+"Please upload required document first!" = "आवश्यक दस्तावेज पहले अपलोड करें!";
+"Document Under Review!" = "समीक्षा के तहत दस्तावेज!";
+"You document is in under review, we will notify you soon after verifying your document" = "आप दस्तावेज़ समीक्षाधीन में, हम जल्दी ही आपको अपने दस्तावेज़ के सत्यापन के बाद सूचित करेंगे है";
+"Upload Document" = "अपलोड दस्तावेज़";
+"Verification Pending" = "सत्यापन लंबित";
+"Verified" = "सत्यापित";
+"REJECTED" = "अस्वीकृत";
+"Trips" = "यात्राएं";
+"Earnings" = "कमाई";
+"Accounts" = "हिसाब किताब";
+"Wallet" = "बटुआ";
+"Settings" = "सेटिंग्स";
+"Notifications" = "सूचनाएं";
+"Live Now" = "अब जीयो";
+"Today Trips" = "आज यात्राएं";
+"Today Earnings" = "आज आय";
+"Manual Dispatch" = "मैनुअल डिस्पैच";
+"Demand Spot" = "मांग स्पॉट";
+"Upcoming" = "आगामी";
+"Online" = "ऑनलाइन";
+"Offline" = "ऑफलाइन";
+"On Going Ride #" = "सवारी # जा रहे हैं पर";
+"Manage Bank Details" = "बैंक विवरण की व्यवस्था करें";
+"Bank Name" = "बैंक का नाम";
+"Account Name" = "खाते का नाम";
+"Account Number" = "खाता संख्या";
+"SUBMIT" = "जमा करें";
+"Manage Your Profile" = "अपने प्रोफ़ाइल का प्रबंधन करें";
+"EDIT" = "संपादित करें";
+"Total Rides" = "कुल सवारी";
+"Your Ratings" = "आपका रेटिंग";
+"Your Earnings" = "आपकी आय";
+"Change Password" = "पासवर्ड बदलें";
+"Logout" = "लोग आउट";
+"Manage Bank Details" = "बैंक विवरण की व्यवस्था करें";
+"Manage Home Address" = "घर का पता प्रबंधित";
+"Manage Personal Documents" = "प्रबंधित व्यक्तिगत दस्तावेज";
+"Edit Your Profile" = "अपनी प्रोफाइल सम्पादित करें";
+"Your Name" = "आपका नाम";
+"Phone" = "फ़ोन";
+"SAVE" = "बचाना";
+"Log Out" = "लोग आउट";
+"Are You Sure to Log Out ?" = "आप लॉग आउट करने के लिए सुनिश्चित हैं?";
+"Confirm" = "की पुष्टि करें";
+"Verify Your Phone Number" = "अपना फोन नम्बर सत्यापित करें";
+"Verify Your Email" = "अपना ई मेल सत्यापित करें";
+"Enter Phone" = "फ़ोन दर्ज";
+"GET OTP" = "OTP प्राप्त";
+"Select Country" = "देश चुनिए";
+"Please enter the One Time Password(OTP) recieved on your number!" = "वन टाइम पासवर्ड (OTP) आपके नंबर पर प्राप्त दर्ज करें!";
+"ENTER OTP" = "ENTER OTP";
+"Re-enter Phone" = "पुन: दर्ज फ़ोन";
+"Continue" = "जारी रहना";
+"phone number should exist between " = "फोन नंबर के बीच मौजूद होना चाहिए";
+" digits." = " अंक।";
+"Please Enter Valid OTP" = "कृपया दर्ज मान्य OTP";
+"Upcoming Trips" = "आगामी यात्राओं";
+"New Request" = "नया अनुरोध";
+"Outstation" = "आउटस्टेशन";
+"Your Trips" = "आपका यात्राएं";
+"On Going" = "चल रही है";
+"Scheduled" = "अनुसूचित";
+"Past Trips" = "विगत यात्राओं";
+"Date Range" = "तिथि सीमा";
+"Weekly Earnings" = "साप्ताहिक आय";
+"Total Trips" = "कुल यात्राएं";
+"Your Earnings" = "आपकी आय";
+"Total Trips" = "कुल यात्राएं";
+"Weekly Earnings" = "साप्ताहिक आय";
+"Total Outstanding(If Any)" = "कुल बकाया (यदि हो तो)";
+"You need to provide data for the chart." = "आप चार्ट के लिए डेटा उपलब्ध कराने की जरूरत है।";
+"Weekly Statement" = "साप्ताहिक वक्तव्य";
+"Total Earning" = "कुल कमाई";
+"Completed Trips" = "पूरे किए गए यात्राएं";
+"Trips Earnings" = "आय Trips";
+"Total Billed To Customer" = "ग्राहक के लिए कुल बिल";
+"Commision Deducted" = "आयोग कटौती";
+"Net Earned" = "नेट अर्जित";
+"Daily Earning" = "दैनिक कमाई";
+"Acceptance Rate" = "स्वीकार करने की दर";
+"Online Time" = "ऑनलाइन समय";
+"Overall Rating" = "समग्र रेटिंग";
+"Total billed to customer" = "कुल ग्राहक को बिल";
+"SEND" = "भेजें";
+"DO YOU HAVE A QUERY" = "क्या आपको कुछ पूछना है";
+"Please let us know about your query,our support team will get back to you" = "कृपया हमें अपनी क्वेरी के बारे में पता हमारी सहायता टीम आपसे संपर्क करेंगे,";
+"Name" = "नाम";
+"your Query" = "तुम्हारे सवाल";
+"Please Check Your Name" = "आपका नाम चेक करें";
+"Please Check Your Email" = "कृपया अपनी ईमेल देखें";
+"Wrong Email format " = "गलत ई-मेल प्रारूप";
+" Email id must not contain space " = " ईमेल आईडी अंतरिक्ष शामिल नहीं करना चाहिए";
+"Please Check Your Query is blank" = "कृपया जाँच करें आपका क्वेरी खाली है";
+"About Us" = "हमारे बारे में";
+"Version Name : " = "संस्करण का नाम:";
+"Terms & Conditions" = "नियम एवं शर्तें";
+"Change Password" = "पासवर्ड बदलें";
+"New Password" = "नया पासवर्ड";
+"Password" = "पारण शब्द";
+"Confirm Password" = "पासवर्ड की पुष्टि कीजिये";
+"Done" = "किया हुआ";
+"Password Shoud Not Be Less Then 6" = "पासवर्ड 6 तब कम हो नहीं shoud";
+"Password Does Not Match" = "पासवर्ड मैच नहीं कर रहा है";
+"Old Password" = "पुराना पासवर्ड";
+"Confirm Password" = "पासवर्ड की पुष्टि कीजिये";
+"DONE" = "किया हुआ";
+"Password Does Not Match" = "पासवर्ड मैच नहीं कर रहा है";
+"Pick From" = "यहां से लें";
+"Package Name" = "पैकेज का नाम";
+"Reject Ride" = "अस्वीकार सवारी";
+"Cash To Be Collected" = "नकद एकत्र होने के लिए";
+"Please confirm this reciept with the customer" = "ग्राहक के साथ इस रसीद की पुष्टि करें";
+"Pick" = "चुनना";
+"Drop" = "ड्रॉप";
+"View Reciept" = "देखें रसीद";
+"Reciept" = "रसीद";
+"Rate User" = "दर उपयोगकर्ता";
+"Comment(If Any)" = "टिप्पणी (यदि हो तो)";
+"Submit" = "जमा करें";
+"Please Give Rating First" = "कृपया दें रेटिंग सबसे पहले";
+"Set Your Destination" = "आपका गंतव्य सेट करें";
+"Turn on your Destination" = "आपके गंतव्य को चालू करें";
+"Destination Address" = "गंतव्य पता";
+"ACTIVATED" = "सक्रिय";
+"DEACTIVATED" = "निष्क्रिय";
+"Getting Location.." = "स्थान हो रही है ..";
+"User Details" = "उपभोक्ता का विवरण";
+"Pick From" = "यहां से लें";
+"Set your drop point" = "अपने ड्रॉप बिंदु सेट";
+"Drop Point" = "ड्रॉप बिंदु";
+"Start Ride" = "प्रारंभ सवारी";
+"Enter User Phone" = "उपयोगकर्ता फ़ोन दर्ज";
+"Please enter drop location first." = "पहले ड्रॉप स्थान दर्ज करें।";
+"Back" = "वापस";
+"Please Upload a photo of your meter of your car or motorcycle" = "कृपया अपनी कार या मोटर साइकिल के अपने मीटर का फ़ोटो अपलोड करें";
+"Ok" = "ठीक";
+"Enter meter value" = "मीटर मान दर्ज करें";
+"Add Details" = "विवरण जोड़ें";
+"Please first add Meter Reading Image " = "पहले जोड़ें मीटर रीडिंग छवि";
+"Add Details" = "विवरण जोड़ें";
+"Please first add Meter Reading value " = "पहले मीटर रीडिंग मूल्य जोड़ने कृपया";
+"Upload a good quality of your document in order to submit your application" = "अपने दस्तावेज़ के एक अच्छी गुणवत्ता अपलोड के लिए अपने आवेदन पत्र प्रस्तुत करने के लिए";
+"Enter Expiry date of your document" = "अपने दस्तावेज़ के समाप्ति दिनांक दर्ज करें";
+"Upload Documents" = "अपलोड दस्तावेज़";
+"Please upload document image first " = "दस्तावेज़ चित्र अपलोड करें पहले";
+"Please enter document Expiration Date" = "दस्तावेज़ समाप्ति दिनांक दर्ज करें";
+"Version" = "संस्करण";
+"Auto Upgrade" = "ऑटो अपग्रेड";
+"App Settings" = "एप्लिकेशन सेटिंग";
+"Pool Ride" = "पूल सवारी";
+"Language" = "भाषा";
+"APP SETTINGS" = "एप्लिकेशन सेटिंग";
+"SUPPORT" = "समर्थन";
+"Customer Support" = "ग्राहक सहेयता";
+"Report Issue" = "रिपोर्ट इश्यू";
+"INFORMATION" = "जानकारी";
+"Terms and Conditions" = "नियम और शर्तें";
+"ABOUT US" = "हमारे बारे में";
+"Select Language" = "भाषा चुनिए";
+"Please Choose Language" = "भाषा चुनें कृपया";
+"Report Issue Regarding TaxiDriver App" = "रिपोर्ट इश्यू taxidriver अनुप्रयोग के बारे में";
+"Sending e-mail in-app is not so bad!" = "एप्लिकेशन के तहत ई-मेल भेजा जा रहा है इतना बुरा नहीं है!";
+"Could Not Send Email" = "नहीं किया जा सका ईमेल भेजें";
+"Your device could not send e-mail. Please check e-mail configuration and try again." = "आपकी डिवाइस ई-मेल नहीं भेज सकते हैं। जाँच ई-मेल विन्यास और फिर कोशिश करें।";
+"USE IN CASE OF EMERGENCY" = "आपातकालीन स्थिति में उपयोग";
+"Call Police Control Room" = "पुलिस नियंत्रण कक्ष पर कॉल करें";
+"Call Your Emergency Contact" = "कॉल आपका आपातकालीन संपर्क";
+"CLOSE" = "बंद करे";
+"Select Emergency Contact" = "चुनें आपातकालीन संपर्क";
+"OTP Verification" = "OTP सत्यापन";
+"Trip Details" = "यात्रा विवरण";
+"Manage Personal Documents" = "प्रबंधित व्यक्तिगत दस्तावेज";
+"Payment" = "भुगतान";
+"Call" = "कॉल";
+"Chat" = "बातचीत";
+"Please select drop location first" = "कृपया ड्रॉप स्थान चुनें";
+"Select Navigation App" = "नेविगेशन अनुप्रयोग का चयन करें";
+"Selection" = "चयन";
+"EMERGENCY FOR CALL" = "कॉल के लिए आपातकालीन";
+"Are You in problem ?" = "आप समस्या में हैं?";
+"Yes" = "हाँ";
+"No" = "नहीं";
+"Enter OTP" = "OTP दर्ज करें";
+"Enter vehicle id i.e 000001" = "वाहन आईडी यानी 000001 दर्ज";
+"Otp has been sent to admin driver" = "OTP व्यवस्थापक चालक को भेज दिया गया";
+"Please enter vehicle id first" = "पहला वाहन आईडी डालें";
+"Please Enter OTP" = "कृपया OTP दर्ज करें";
+"DONE" = "किया हुआ";
+"New Vehicle" = "नए वाहन";
+"Existing Vehicle" = "मौजूदा वाहन";
+"Vehicle Information" = "वाहन की जानकारी";
+"Add Money" = "पैसे जोड़ें";
+"Add Money To Wallet" = "वॉलेट में पैसे डालते हैं";
+"It's quick safe & secure" = "यह त्वरित सुरक्षित और सुरक्षित है";
+"Select Payment Method" = "भुगतान का तरीका चुनें";
+"Wallet" = "बटुआ";
+"Avilable Balance" = "avilable शेष राशि";
+"Recent Transactions" = "हाल ही के लेनदेन";
+"Your Home Address" = "अपने घर का पता";
+"Save Address" = "पता सहेजें";
+"SAVE" = "बचाना";
+"Add New" = "नया जोड़ें";
+"Manage Vehicles" = "वाहन की व्यवस्था करें";
+"Add More Vehicle" = "अधिक वाहन जोड़े";
+"Activated Vehicle" = "सक्रिय वाहन";
+"Services" = "सेवाएं";
+"Your Other Vehicle" = "आपका अन्य वाहन";
+"+ Add New" = "+ जोड़ें नई";
+"Start Date" = "आरंभ करने की तिथि";
+"End Date" = "अंतिम तिथि";
+"select date" = "तारीख़ चुनें";
+"select date" = "तारीख़ चुनें";
+"Driver Ratings" = "ड्राइवर रेटिंग";
+"Daily" = "रोज";
+"Weekly" = "साप्ताहिक";
+"Monthly" = "महीने के";
+"Please select date first" = "कृपया पहले तिथि का चयन करें";
+"Terms And Condition" = "नियम व शर्तें";
+"First Name" = "पहला नाम";
+"Last Name" = "अंतिम नाम";
+"Enter First Name" = "पहला नाम डालो";
+"Enter Last Name" = "अंतिम नाम दर्ज करो";
+"Please Enter First Name" = "कृपया पहला नाम दर्ज करें";
+"Owner Name" = "मालिक का नाम";
+"Owner Number" = "मालिक संख्या";
+"Owner Email" = "स्वामी ईमेल";
+"Owner Bank Name" = "मालिक बैंक का नाम";
+"Owner Bank Code" = "मालिक बैंक कोड";
+"Owner Account No." = "मालिक खाता सं";
+"Owner Cheque Image" = "मालिक चेक छवि";
+"Owner Name" = "मालिक का नाम";
+"Owner Number" = "मालिक संख्या";
+"Owner Email" = "स्वामी ईमेल";
+"Owner Bank Name" = "मालिक बैंक का नाम";
+"Owner Bank Code" = "मालिक बैंक कोड";
+"Owner Account No." = "मालिक खाता सं";
+"Owner Cheque Image" = "मालिक चेक छवि";
+"Please Enter Vehicle Owner Name" = "कृपया दर्ज वाहन स्वामी का नाम";
+"Please Enter Owner Number" = "कृपया दर्ज मालिक संख्या";
+"Please Enter Valid Owner Number" = "कृपया मान्य मालिक नंबर दर्ज";
+"Please Enter Valid Email" = "कृपया वैध ईमेल दर्ज़ करें";
+"Please Enter Owner Bank Code" = "दर्ज करें मालिक बैंक कोड";
+"Please Enter Owner Bank Name" = "कृपया दर्ज मालिक बैंक का नाम";
+"Please Enter Owner Account No" = "कृपया दर्ज स्वामी खाता नहीं";
+"Please Upload Owner Cheque Image" = "अपलोड कृपया मालिक चेक छवि";
+"Please enter phone number first." = "पहला फोन नंबर दर्ज करें।";
+"Country ID is not correct" = "देश आईडी सही नहीं है";
+"ACCEPT" = "स्वीकार करना";
+"Please Accept Terms And Conditions" = "कृपया नियम और शर्तें स्वीकार";
+"Please Accept Terms And Conditions First" = "कृपया नियम और शर्तें स्वीकार पहले";
+"Terms and conditions has been changed." = "नियम और शर्तें बदल दिया गया है।";
+"Privacy Policy" = "गोपनीयता नीति";
+"EXPIRED" = "सीमा समाप्त";
+"Refer & Earn" = "देखें और कमाएँ";
+"Refer Code and Earn More" = "देखें संहिता और अधिक कमाएँ";
+"Start Date" = "आरंभ करने की तिथि";
+"End Date" = "अंतिम तिथि";
+"Share your code" = "अपने कोड साझा करें";
+"Refer & Earn" = "देखें और कमाएँ";
+"Personal Documents" = "व्यक्तिगत दस्तावेज";
+"Vehicle Documents" = "वाहन दस्तावेज़";
+"Est. Fare" = "EST। किराया";
+"Est. Distance" = "EST। दूरी";
+"Super Driver" = "सुपर ड्राइवर";
+"Document Rejected, Please Contact to admin" = "दस्तावेज़ अस्वीकृत, व्यवस्थापक से संपर्क करें";
+"Are you sure you want to activate the vehicle?" = "क्या आप वाकई वाहन को सक्रिय करना चाहते हैं?";
+"Activate" = "सक्रिय";
+"Already live by another driver" = "पहले से ही एक अन्य चालक द्वारा रहते हैं";
+"View Receipt" = "रसीद देखें";
+"Promotions" = "प्रचार";
+"Enter User Name" = "उपयोगकर्ता नाम दर्ज करें";
+"Set Radius" = "सेट त्रिज्या";
+"Get Started" = "शुरू हो जाओ";
+"Drag the marker to the location from where you want to receive the user requests for ride." = "जहां सवारी के लिए उपयोगकर्ता अनुरोधों प्राप्त करना चाहते हैं से स्थान पर मार्कर खींचें।";
+"Then set the Radius(e.g. 10) in the field below." = "फिर नीचे दिए गए क्षेत्र में त्रिज्या (उदा। 10) की स्थापना की।";
+"NOTE : You will only get the requests from user under the defined radius." = "नोट: आप केवल परिभाषित त्रिज्या के तहत उपयोगकर्ता से अनुरोध मिल जाएगा।";
+"Set Radius on Map" = "मानचित्र पर दायरा सेट करें";
+"Makes Your Trip Planning Easy" = "आपका यात्रा की योजना के लिए आसान बनाता है";
+"Choose Location" = "स्थान का चयन";
+"Set a Radius" = "त्रिज्या निर्धारित";
+"SUBMIT" = "जमा करें";
+"Est. Fare : " = "EST। किराया:";
+"Est. Time : " = "EST। पहर :";
+"Version" = "संस्करण";
+"Select date" = "तारीख़ चुनें";
+"Select Date" = "तारीख़ चुनें";
+"Weekly Rides" = "साप्ताहिक सवारी";
+"Allow user to smoke" = "उपयोगकर्ता धूम्रपान करने के लिए अनुमति दें";
+"Currently Activated" = "वर्तमान में सक्रिय";
+"About Package" = "पैकेज के बारे में";
+"Validity" = "वैधता";
+"No of Rides" = "सवारी की नहीं";
+"Service" = "सर्विस";
+"Valid Till" = "तक मान्य है";
+"Rides Left" = "सवारी छोड़ देता है";
+"Active Subscription" = "सक्रिय सदस्यता";
+"Maximum Rides" = "अधिकतम सवारी";
+"Renew" = "नवीकरण";
+"View Detail" = "विस्तार से देखें";
+"Subscriptions Packs" = "सदस्यता पैक";
+"Subscriptions Pack Details" = "सदस्यता पैक विवरण";
+"Description" = "विवरण";
+"Package Duration : " = "पैकेज अवधि:";
+"Max Trips : " = "मैक्स यात्राएं:";
+"Auto On" = "ऑटो पर";
+"Auto Off" = "स्वतः बंद";
+"ALL" = "सब";
+"PAID" = "भुगतान किया है";
+"RECEIVED" = "प्राप्त किया";
+"Payment not successful" = "भुगतान विफल";
+"Manage Your Cards" = "आपका कार्ड की व्यवस्था करें";
+"Add New" = "नया जोड़ें";
+"Add Card" = "कार्ड जोड़ें";
+"ENTER CARD NUMBER" = "कार्ड नंबर दर्ज";
+"NEXT" = "आगामी";
+"MM/YYYY" = "MM / YYYY";
+"CVV" = "सीवीवी";
+"Emergency Contacts" = "आपातकालीन संपर्क";
+"Emergency Contact" = "आपातकालीन संपर्क";
+"ADD" = "जोड़ें";
+"Select Country" = "देश चुनिए";
+"Cancel" = "रद्द करना";
+"Ok" = "ठीक";
+"Add Contact" = "संपर्क जोड़ें";
+"Enter Phone" = "फ़ोन दर्ज";
+"ADD" = "जोड़ें";
+"Enter Name" = "नाम दर्ज";
+"Go to Ride" = "सवारी के लिए जाओ";
+"IFSC Code" = "IFSC कोड";
+"Filter" = "फ़िल्टर";
+"Your Ratings" = "आपका रेटिंग";
+"Baby Seat Availablity" = "बेबी सीट उपलब्धता";
+"Enter Refer Code" = "देखें दर्ज कोड";
+"Driver's Personal Documents" = "चालक का व्यक्तिगत दस्तावेज";
+"Accept Ride" = "सवारी स्वीकार करें";
+"Navigate" = "नेविगेट";
+"All" = "सब";
+"Paid" = "भुगतान किया है";
+"Received" = "प्राप्त किया";
+"Select Subscription" = "सदस्यता चुनें";
+"Select Subscription Package" = "सदस्यता पैकेज का चयन";
+"Please select type of Model" = "कृपया मॉडल के प्रकार का चयन";
+"Select type of Model" = "मॉडल के प्रकार का चयन";
+"Enter bank name first" = "पहले बैंक का नाम दर्ज करें";
+"Enter account name first" = "पहला खाता नाम दर्ज करें";
+"Enter account number first" = "पहला खाता संख्या दर्ज करें";
+"Enter online code first" = "पहली ऑनलाइन कोड दर्ज";
+"Mutilple Stops" = "Mutilple बंद हो जाता है";
+"Otp Send On Entered Number" = "OTP प्रवेश किया संख्या पर भेजें";
+"Earnings Details" = "आय की विस्तृत जानकारी";
+"Balance Due" = "शेष राशि";
+"Rides" = "सवारी";
+"Select Subscription" = "सदस्यता चुनें";
+"Manage Your Documents" = "अपने दस्तावेज़ों को प्रबंधित करें";
+"Expiry: " = "समाप्ति: ";
+"Uploaded on: " = "पर अपलोड: ";
+"Add Receiver's Signature Below" = "रिसीवर के हस्ताक्षर के नीचे जोड़े";
+"Note: OTP Received on User Application" = "नोट: OTP उपयोगकर्ता आवेदन पर प्राप्त";
+"Contact" = "संपर्क करें";
+"CANCEL" = "रद्द करना";
+"Receiver Details" = "रिसीवर विवरण";
+"Name" = "नाम";
+"Receiver Details" = "रिसीवर विवरण";
+"Submit" = "प्रस्तुत";
+"Enter Receiver's Name" = "दर्ज रिसीवर का नाम";
+"Enter OTP" = "OTP दर्ज करें";
+"Receiver Details" = "रिसीवर विवरण";
+"Receiver's Contact" = "प्राप्तकर्ता का संपर्क";
+"Product's Details" = "उत्पाद का विवरण";
+"Product's Images" = "उत्पाद की छवियां";
+"Receiver's Details" = "प्राप्तकर्ता का विवरण";
+"Receiver's Name" = "प्राप्तकर्ता नाम";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

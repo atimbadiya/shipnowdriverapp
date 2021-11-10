@@ -1,0 +1,6 @@
+framework module Pods_ApporioTaxiDriver {
+  umbrella header "Pods-ApporioTaxiDriver-umbrella.h"
+
+  export *
+  module * { export * }
+}

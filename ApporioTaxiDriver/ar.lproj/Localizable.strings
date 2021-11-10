@@ -1,0 +1,1320 @@
+/* 
+  File.strings
+  ApporioTaxiDriver
+
+  Created by apple on 2/23/19.
+  Copyright © 2019 Atul Jain. All rights reserved.
+*/
+
+"Apporio Taxi Driver" = "سائق تاكسي Apporio";
+"REGISTER" = "تسجيل";
+"LOGIN" = "تسجيل الدخول";
+"DEMO" = "DEMO";
+"Alert" = "محزر";
+"Make sure you logged as Dem in Driver App as well." = "تأكد قمت بتسجيل كما ماركا المانيا في برنامج تشغيل التطبيقات أيضا.";
+"CANCEL" = "إلغاء";
+"OK" = "حسنا";
+"Login" = "تسجيل الدخول";
+"Select City" = "اختر مدينة";
+"Forgot Password?" = "هل نسيت كلمة المرور؟";
+"Email" = "البريد الإلكتروني";
+"Phone Number" = "رقم الهاتف";
+"Please Enter Password" = "الرجاء إدخال كلمة المرور";
+"Please Enter Valid Email_Address" = "الرجاء إدخال عنوان بريد إلكتروني صالح";
+"Please Enter Password" = "الرجاء إدخال كلمة المرور";
+"Please Enter Valid Phone Number" = "الرجاء إدخال رقم هاتف صحيح";
+"Register" = "تسجيل";
+"Enter Full Name" = "أدخل الاسم الكامل";
+"Enter Email" = "أدخل البريد الإلكتروني";
+"Enter Mobile" = "أدخل موبايل";
+"Enter Password" = "أدخل كلمة المرور";
+"Gender" = "جنس";
+"Male" = "الذكر";
+"Female" = "إناثا";
+"Smoker" = "المدخن";
+"Yes" = "نعم فعلا";
+"No" = "لا";
+"Select Area" = "اختر منطقة";
+"Continue" = "استمر";
+"Select City" = "اختر مدينة";
+"Select Option" = "حدد الخيار";
+"Camera" = "الة تصوير";
+"Gallery" = "صالة عرض";
+"Cancel" = "إلغاء";
+"Please Enter Name" = "الرجاء إدخال اسم";
+"Please Enter Mobile Number First" = "الرجاء إدخال رقم الجوال أولا";
+"Password length should not be less then 6" = "لا ينبغي أن يكون طول كلمة أقل ثم 6";
+"Please Select Image First" = "الرجاء اختيار صورة الأولى";
+"Please Select Area First" = "الرجاء اختيار المنطقة الأولى";
+"Please Select Gender First" = "يرجى تحديد الجنس الأولى";
+"Please Select Option Regarding Smoke" = "الرجاء اختيار الخيار فيما يتعلق دخان";
+"Please fill email properly." = "الرجاء تعبئة البريد الإلكتروني بشكل صحيح.";
+"Enter Name" = "أدخل الاسم";
+"Enter Phone/Email" = "أدخل الهاتف / البريد الإلكتروني";
+"Please enter your name and details for the identification of your demo driver" = "الرجاء إدخال اسمك وتفاصيل عن هوية سائقي العرض الخاص بك";
+"Login As Demo" = "تسجيل الدخول كما تجريبي";
+"Or Skip Entering Details" = "أو تخطي إدخال تفاصيل";
+"Add Vehicle" = "إضافة سيارة";
+"Create Vehicle" = "إنشاء مركبات";
+"Select Vehicle Type" = "حدد نوع السيارة";
+"Click to select" = "انقر لتحديد";
+"Select Vehicle Make" = "حدد جعله سيارة";
+"Select Vehicle Model" = "حدد نموذج سيارة";
+"Type of Service" = "نوع الخدمة";
+"Add Vehicle Details" = "إضافة تفاصيل سيارة";
+"Enter Vehicle number" = "أدخل رقم سيارة";
+"Enter Vehicle Color" = "أدخل اللون المركبات";
+"Select Number Plate Image" = "حدد رقم اللوحة صورة";
+"Select Vehicle Photo" = "تحديد صور سيارة";
+"Please select vehicle type first" = "يرجى تحديد نوع السيارة لأول مرة";
+"Please select vehicle make first" = "يرجى اختيار السيارة تجعل أولا";
+"Please select vehicle model first" = "الرجاء تحديد نموذج السيارة لأول مرة";
+"Please select type of services" = "يرجى تحديد نوع الخدمات";
+"Please enter car color first" = "الرجاء إدخال لون السيارة لأول مرة";
+"Please enter vehicle number first" = "الرجاء إدخال رقم السيارة لأول مرة";
+"Please enter vehicle number plate image first" = "الرجاء إدخال السيارة صورة رقم لوحة أولا";
+"Please enter vehicle image first" = "الرجاء إدخال صورة مركبة لأول مرة";
+"Select Type Of Services" = "حدد نوع من الخدمات";
+"Documents" = "مستندات";
+"Personal Documents" = "مستندات شخصية";
+"Vehicle Documents" = "وثائق السيارة";
+"Documents Not uploaded" = "لم يتم رفع الوثائق";
+"Please upload required document first!" = "يرجى تحميل المستندات المطلوبة لأول مرة!";
+"Document Under Review!" = "وثيقة تحت المراجعة!";
+"You document is in under review, we will notify you soon after verifying your document" = "الوثيقة التي هي في قيد الاستعراض، وسوف نقوم بإعلامك قريبا بعد التحقق من المستند";
+"Upload Document" = "إيداع المستند";
+"Verification Pending" = "التحقق قيد الانتظار";
+"Verified" = "التحقق";
+"REJECTED" = "مرفوض";
+"Trips" = "رحلات";
+"Earnings" = "أرباح";
+"Accounts" = "حسابات";
+"Wallet" = "محفظة نقود";
+"Settings" = "الإعدادات";
+"Notifications" = "إخطارات";
+"Live Now" = "نعيش الآن";
+"Today Trips" = "رحلات اليوم";
+"Today Earnings" = "الأرباح اليوم";
+"Manual Dispatch" = "ارسال اليدوي";
+"Demand Spot" = "الطلب بقعة";
+"Upcoming" = "القادمة";
+"Online" = "عبر الانترنت";
+"Offline" = "غير متصل على الانترنت";
+"On Going Ride #" = "على الذهاب ركوب #";
+"Manage Bank Details" = "إدارة تفاصيل البنك";
+"Bank Name" = "اسم البنك";
+"Account Name" = "أسم الحساب";
+"Account Number" = "رقم حساب";
+"SUBMIT" = "خضع";
+"Manage Your Profile" = "إدارة ملف التعريف الخاص بك";
+"EDIT" = "تصحيح";
+"Total Rides" = "مجموع ركوب الخيل";
+"Your Ratings" = "الترتيب الخاص بك";
+"Your Earnings" = "أرباحك";
+"Change Password" = "غير كلمة السر";
+"Logout" = "الخروج";
+"Manage Bank Details" = "إدارة تفاصيل البنك";
+"Manage Home Address" = "إدارة عنوان المنزل";
+"Manage Personal Documents" = "إدارة الوثائق الشخصية";
+"Edit Your Profile" = "عدل ملفك الشخصي";
+"Your Name" = "اسمك";
+"Phone" = "هاتف";
+"SAVE" = "حفظ";
+"Log Out" = "الخروج";
+"Are You Sure to Log Out ?" = "هل أنت متأكد من تسجيل الخروج؟";
+"Confirm" = "تؤكد";
+"Verify Your Phone Number" = "اكد على رقم هاتفك او جوالك";
+"Verify Your Email" = "قم بتأكيد بريدك الألكتروني";
+"Enter Phone" = "أدخل الهاتف";
+"GET OTP" = "الحصول على OTP";
+"Select Country" = "حدد الدولة";
+"Please enter the One Time Password(OTP) recieved on your number!" = "الرجاء إدخال كلمة المرور مرة واحدة (OTP) تلقوا على رقم هاتفك!";
+"ENTER OTP" = "ENTER OTP";
+"Re-enter Phone" = "إعادة إدخال الهاتف";
+"Continue" = "استمر";
+"phone number should exist between " = "يجب أن تكون موجودة بين رقم الهاتف";
+" digits." = " أرقام.";
+"Please Enter Valid OTP" = "الرجاء إدخال صالح OTP";
+"Upcoming Trips" = "رحلات القادمة";
+"New Request" = "طلب جديد";
+"Outstation" = "المحطة الخارجية";
+"Your Trips" = "رحلات الخاصة بك";
+"On Going" = "جاري التنفيذ";
+"Scheduled" = "المقرر";
+"Past Trips" = "رحلات الماضية";
+"Date Range" = "نطاق الموعد";
+"Weekly Earnings" = "الأرباح الأسبوعية";
+"Total Trips" = "مجموع رحلات";
+"Your Earnings" = "أرباحك";
+"Total Trips" = "مجموع رحلات";
+"Weekly Earnings" = "الأرباح الأسبوعية";
+"Total Outstanding(If Any)" = "إجمالي رائعة (إن وجدت)";
+"You need to provide data for the chart." = "تحتاج إلى توفير البيانات للتخطيط.";
+"Weekly Statement" = "بيان الأسبوعية";
+"Total Earning" = "مجموع الأرباح";
+"Completed Trips" = "رحلات الانتهاء";
+"Trips Earnings" = "رحلات الأرباح";
+"Total Billed To Customer" = "إجمالي صفت لالعملاء";
+"Commision Deducted" = "العمولات المستقطعة";
+"Net Earned" = "شبكة المكتسبة";
+"Daily Earning" = "العائد اليومي";
+"Acceptance Rate" = "معدل القبول";
+"Online Time" = "الوقت على الانترنت";
+"Overall Rating" = "تقييم عام";
+"Total billed to customer" = "إجمالي فاتورة للعميل";
+"SEND" = "إرسال";
+"DO YOU HAVE A QUERY" = "هل لديك استفسار";
+"Please let us know about your query,our support team will get back to you" = "واسمحوا لنا أن نعرف عن الاستعلام الخاص بك، سيقوم فريق الدعم لدينا نعود اليكم";
+"Name" = "اسم";
+"your Query" = "طلبك";
+"Please Check Your Name" = "يرجى التحقق من اسمك";
+"Please Check Your Email" = "من فضلك تفقد بريدك الالكتروني";
+"Wrong Email format " = "تنسيق البريد الإلكتروني غير صحيح";
+" Email id must not contain space " = " يجب أن لا يحتوي البريد الإلكتروني معرف الفضاء";
+"Please Check Your Query is blank" = "يرجى التحقق من الاستعلام الخاص بك فارغة";
+"About Us" = "معلومات عنا";
+"Version Name : " = "اسم الإصدار:";
+"Terms & Conditions" = "البنود و الظروف";
+"Change Password" = "غير كلمة السر";
+"New Password" = "كلمة السر الجديدة";
+"Password" = "كلمه السر";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Done" = "فعله";
+"Password Shoud Not Be Less Then 6" = "كلمة المرور عدم ربط لا تقل ثم 6";
+"Password Does Not Match" = "كلمة السر غير متطابقة";
+"Old Password" = "كلمة المرور القديمة";
+"Confirm Password" = "تأكيد كلمة المرور";
+"DONE" = "فعله";
+"Password Does Not Match" = "كلمة السر غير متطابقة";
+"Pick From" = "اختار من";
+"Package Name" = "اسم حزمة";
+"Reject Ride" = "رفض ركوب";
+"Cash To Be Collected" = "النقدية التي سيتم جمعها";
+"Please confirm this reciept with the customer" = "يرجى التأكد من صحة هذا reciept مع العملاء";
+"Pick" = "قطف او يقطف";
+"Drop" = "قطرة";
+"View Reciept" = "مشاهدة Reciept";
+"Reciept" = "Reciept";
+"Rate User" = "معدل العضو";
+"Comment(If Any)" = "تعليق (إن وجدت)";
+"Submit" = "خضع";
+"Please Give Rating First" = "يرجى إعطاء تقييم أولا";
+"Set Your Destination" = "تعيين وجهتك";
+"Turn on your Destination" = "بدوره على وجهتك";
+"Destination Address" = "عنوان الوجهة";
+"ACTIVATED" = "مفعل";
+"DEACTIVATED" = "تعطيلها";
+"Getting Location.." = "الحصول على الموقع ..";
+"User Details" = "بيانات المستخدم";
+"Pick From" = "اختار من";
+"Set your drop point" = "تعيين نقطة إسقاط الخاص";
+"Drop Point" = "إسقاط نقطة";
+"Start Ride" = "بداية ركوب";
+"Enter User Phone" = "أدخل الهاتف العضو";
+"Please enter drop location first." = "الرجاء إدخال إسقاط موقع أولا.";
+"Back" = "الى الخلف";
+"Please Upload a photo of your meter of your car or motorcycle" = "يرجى تحميل صورة من المقياس سيارتك أو دراجة نارية";
+"Ok" = "حسنا";
+"Enter meter value" = "أدخل قيمة متر";
+"Add Details" = "إضافة تفاصيل";
+"Please first add Meter Reading Image " = "يرجى أولا إضافة قراءة العداد صورة";
+"Add Details" = "إضافة تفاصيل";
+"Please first add Meter Reading value " = "يرجى أولا إضافة قيمة قراءة العداد";
+"Upload a good quality of your document in order to submit your application" = "تحميل نوعية جيدة من المستند من أجل تقديم طلبك";
+"Enter Expiry date of your document" = "أدخل تاريخ انتهاء الصلاحية من المستند";
+"Upload Documents" = "وثائق للتحميل";
+"Please upload document image first " = "يرجى تحميل صورة الوثيقة لأول مرة";
+"Please enter document Expiration Date" = "الرجاء إدخال ثيقة تاريخ انتهاء الصلاحية";
+"Version" = "الإصدار";
+"Auto Upgrade" = "ترقية السيارات";
+"App Settings" = "إعدادات التطبيقات";
+"Pool Ride" = "تجمع ركوب";
+"Language" = "لغة";
+"APP SETTINGS" = "إعدادات التطبيقات";
+"SUPPORT" = "الدعم";
+"Customer Support" = "دعم العملاء";
+"Report Issue" = "قضية تقرير";
+"INFORMATION" = "معلومات";
+"Terms and Conditions" = "الأحكام والشروط";
+"ABOUT US" = "معلومات عنا";
+"Select Language" = "اختار اللغة";
+"Please Choose Language" = "الرجاء اختيار اللغة";
+"Report Issue Regarding TaxiDriver App" = "تقرير المسألة المتعلقة تاكسيدريفير التطبيقات";
+"Sending e-mail in-app is not so bad!" = "إرسال رسائل البريد الإلكتروني في التطبيق ليس سيئا للغاية!";
+"Could Not Send Email" = "تعذر إرسال البريد الإلكتروني";
+"Your device could not send e-mail. Please check e-mail configuration and try again." = "جهازك لا يمكن إرسال البريد الإلكتروني. يرجى التحقق من إعدادات البريد الإلكتروني وحاول مرة أخرى.";
+"USE IN CASE OF EMERGENCY" = "استخدام في حالات الطوارئ";
+"Call Police Control Room" = "استدعاء غرفة التحكم الشرطة";
+"Call Your Emergency Contact" = "مكالمتك الاتصال في حالات الطوارئ";
+"CLOSE" = "أغلق";
+"Select Emergency Contact" = "حدد الاتصال في حالات الطوارئ";
+"OTP Verification" = "التأكيد OTP";
+"Trip Details" = "تفاصيل رحلة";
+"Manage Personal Documents" = "إدارة الوثائق الشخصية";
+"Payment" = "دفع";
+"Call" = "مكالمة";
+"Chat" = "دردشة";
+"Please select drop location first" = "الرجاء تحديد انخفاض المكان لأول مرة";
+"Select Navigation App" = "اختر الإنتقال التطبيقات";
+"Selection" = "اختيار";
+"EMERGENCY FOR CALL" = "الطوارئ FOR CALL";
+"Are You in problem ?" = "هل أنت في المشكلة؟";
+"Yes" = "نعم فعلا";
+"No" = "لا";
+"Enter OTP" = "أدخل OTP";
+"Enter vehicle id i.e 000001" = "أدخل المركبة أي بمعنى 000001";
+"Otp has been sent to admin driver" = "وقد أرسلت مكتب المدعي العام لسائق مشرف";
+"Please enter vehicle id first" = "الرجاء إدخال رقم التعريف المركبة لأول مرة";
+"Please Enter OTP" = "الرجاء أدخل OTP";
+"DONE" = "فعله";
+"New Vehicle" = "سيارة جديدة";
+"Existing Vehicle" = "سيارة القائمة";
+"Vehicle Information" = "معلومات السيارة";
+"Add Money" = "إضافة المال";
+"Add Money To Wallet" = "إضافة أموال إلى محفظة";
+"It's quick safe & secure" = "انها آمنة سريعة وآمنة";
+"Select Payment Method" = "اختار طريقة الدفع";
+"Wallet" = "محفظة نقود";
+"Avilable Balance" = "ميزان التقنى";
+"Recent Transactions" = "التحويلات الاخيرة";
+"Your Home Address" = "عنوان منزلك";
+"Save Address" = "حفظ العناوين";
+"SAVE" = "حفظ";
+"Add New" = "اضف جديد";
+"Manage Vehicles" = "إدارة المركبات";
+"Add More Vehicle" = "إضافة المزيد من سيارة";
+"Activated Vehicle" = "سيارة المنشط";
+"Services" = "خدمات";
+"Your Other Vehicle" = "لديك مركبات أخرى";
+"+ Add New" = "+ إضافة جديد";
+"Start Date" = "تاريخ البدء";
+"End Date" = "تاريخ الانتهاء";
+"select date" = "حدد تاريخ";
+"select date" = "حدد تاريخ";
+"Driver Ratings" = "سائق التقييمات";
+"Daily" = "اليومي";
+"Weekly" = "أسبوعي";
+"Monthly" = "شهريا";
+"Please select date first" = "يرجى تحديد تاريخ أول";
+"Terms And Condition" = "أحكام وشروط";
+"First Name" = "الاسم الاول";
+"Last Name" = "الكنية";
+"Enter First Name" = "أدخل الاسم الأول";
+"Enter Last Name" = "إدخال اسم آخر";
+"Please Enter First Name" = "الرجاء إدخال الاسم الأول";
+"Owner Name" = "اسم المالك";
+"Owner Number" = "عدد المالك";
+"Owner Email" = "صاحب البريد الإلكتروني";
+"Owner Bank Name" = "اسم البنك المالك";
+"Owner Bank Code" = "صاحب مدونة الضفة";
+"Owner Account No." = "حساب صاحب رقم";
+"Owner Cheque Image" = "صاحب تحقق صورة";
+"Owner Name" = "اسم المالك";
+"Owner Number" = "عدد المالك";
+"Owner Email" = "صاحب البريد الإلكتروني";
+"Owner Bank Name" = "اسم البنك المالك";
+"Owner Bank Code" = "صاحب مدونة الضفة";
+"Owner Account No." = "حساب صاحب رقم";
+"Owner Cheque Image" = "صاحب تحقق صورة";
+"Please Enter Vehicle Owner Name" = "الرجاء إدخال اسم مالك المركبة";
+"Please Enter Owner Number" = "الرجاء إدخال الرقم المالك";
+"Please Enter Valid Owner Number" = "الرجاء إدخال صالح عدد المالك";
+"Please Enter Valid Email" = "الرجاء إدخال بريد إلكتروني صحيح";
+"Please Enter Owner Bank Code" = "الرجاء إدخال الرمز المالك البنك";
+"Please Enter Owner Bank Name" = "الرجاء إدخال اسم البنك المالك";
+"Please Enter Owner Account No" = "الرجاء إدخال المالك رقم الحساب";
+"Please Upload Owner Cheque Image" = "يرجى تحميل المالك تحقق صورة";
+"Please enter phone number first." = "الرجاء إدخال رقم الهاتف أولا.";
+"Country ID is not correct" = "ID بلد غير صحيحة";
+"ACCEPT" = "قبول";
+"Please Accept Terms And Conditions" = "يرجى قبول الشروط والأحكام";
+"Please Accept Terms And Conditions First" = "يرجى قبول الشروط والأحكام الأولى";
+"Terms and conditions has been changed." = "تم تغيير الشروط والأحكام.";
+"Privacy Policy" = "سياسة خاصة";
+"EXPIRED" = "منتهية الصلاحية";
+"Refer & Earn" = "الرجوع وكسب";
+"Refer Code and Earn More" = "الرجوع المدونة واكسب أكثر";
+"Start Date" = "تاريخ البدء";
+"End Date" = "تاريخ الانتهاء";
+"Share your code" = "مشاركة التعليمات البرمجية";
+"Refer & Earn" = "الرجوع وكسب";
+"Personal Documents" = "مستندات شخصية";
+"Vehicle Documents" = "وثائق السيارة";
+"Est. Fare" = "Est. أجرة";
+"Est. Distance" = "Est. مسافه: بعد";
+"Super Driver" = "سوبر سائق";
+
+"Document Rejected, Please Contact to admin" = "تم رفض المستند ، يرجى الاتصال بالمشرف";
+"Are you sure you want to activate the vehicle?" = "هل أنت متأكد من أنك تريد تنشيط السيارة؟";
+"Activate" = "تفعيل";
+"Already live by another driver" = "تعيش بالفعل من قبل سائق آخر";
+"View Receipt" = "استلام عرض";
+"Promotions" = "الترقيات";
+"Enter User Name" = "ادخل اسم المستخدم";
+"Set Radius" = "مجموعة الشعاع";
+"Get Started" = "البدء";
+"Drag the marker to the location from where you want to receive the user requests for ride." = "اسحب علامة إلى الموقع من حيث كنت ترغب في الحصول على طلبات المستخدمين للركوب.";
+"Then set the Radius(e.g. 10) in the field below." = "ثم تعيين نصف قطرها (على سبيل المثال 10) في الحقل أدناه.";
+"NOTE : You will only get the requests from user under the defined radius." = "ملاحظة: سوف تحصل فقط على طلبات من المستخدم تحت دائرة نصف قطرها محدد.";
+"Set Radius on Map" = "تعيين نصف قطر على الخريطة";
+"Makes Your Trip Planning Easy" = "يجعل رحلتك التخطيط سهلة";
+"Choose Location" = "اختيار موقع";
+"Set a Radius" = "تعيين نصف قطرها";
+"SUBMIT" = "خضع";
+"Est. Fare : " = "Est. أجرة:";
+"Est. Time : " = "Est. زمن :";
+"Version" = "الإصدار";
+"Select date" = "حدد تاريخ";
+"Select Date" = "حدد تاريخ";
+"Weekly Rides" = "ركوب الخيل الأسبوعية";
+"Allow user to smoke" = "تسمح للمستخدم لدخان";
+"Currently Activated" = "المنشط حاليا";
+"About Package" = "حول الحزمة";
+"Validity" = "صلاحية";
+"No of Rides" = "عدد من ركوب الخيل";
+"Service" = "الخدمات";
+"Valid Till" = "صالح حتى";
+"Rides Left" = "ركوب الخيل اليسار";
+"Active Subscription" = "اشتراك نشط";
+"Maximum Rides" = "أقصى ركوب";
+"Renew" = "جدد";
+"View Detail" = "عرض التفاصيل";
+"Subscriptions Packs" = "حزم الاشتراكات";
+"Subscriptions Pack Details" = "الاشتراكات تفاصيل حزمة";
+"Description" = "وصف";
+"Package Duration : " = "حزمة المدة:";
+"Max Trips : " = "رحلات الحد الأقصى:";
+"Auto On" = "في السيارات";
+"Auto Off" = "إيقاف تلقائي";
+"ALL" = "الكل";
+"PAID" = "دفع";
+"RECEIVED" = "تم الاستلام";
+"Payment not successful" = "دفع يكن ناجحا";
+"Manage Your Cards" = "إدارة البطاقات الخاصة بك";
+"Add New" = "اضف جديد";
+"Add Card" = "إضافة بطاقة";
+"ENTER CARD NUMBER" = "إدخال رقم بطاقة";
+"NEXT" = "التالى";
+"MM/YYYY" = "MM / YYYY";
+"CVV" = "CVV";
+"Emergency Contacts" = "جهة اتصال للطوارئ";
+"Emergency Contact" = "الاتصال بالطوارىء";
+"ADD" = "أضف";
+"Select Country" = "حدد الدولة";
+"Cancel" = "إلغاء";
+"Ok" = "حسنا";
+"Add Contact" = "إضافة جهة اتصال";
+"Enter Phone" = "أدخل الهاتف";
+"ADD" = "أضف";
+"Enter Name" = "أدخل الاسم";
+"Go to Ride" = "الذهاب إلى ركوب";
+"IFSC Code" = "كود IFSC";
+"Filter" = "منقي";
+"Your Ratings" = "الترتيب الخاص بك";
+"Baby Seat Availablity" = "طفل مقعد التوافر";
+"Enter Refer Code" = "أدخل ارجع كود";
+"Driver's Personal Documents" = "الوثائق الشخصية السائق";
+"Accept Ride" = "تقبل ركوب";
+"Navigate" = "التنقل";
+"All" = "الكل";
+"Paid" = "دفع";
+"Received" = "تم الاستلام";
+"Select Subscription" = "حدد الاشتراك";
+"Select Subscription Package" = "اختر الاشتراك حزمة";
+"Please select type of Model" = "الرجاء اختيار نوع من نموذج";
+"Select type of Model" = "حدد نوع من نموذج";
+"Enter bank name first" = "أدخل اسم البنك لأول مرة";
+"Enter account name first" = "أدخل اسم الحساب أولا";
+"Enter account number first" = "أدخل رقم الحساب أولا";
+"Enter online code first" = "أدخل الرمز على الإنترنت أولا";
+"Mutilple Stops" = "توقف Mutilple";
+"Otp Send On Entered Number" = "مكتب المدعي العام في ارسال عدد دخلت";
+"Earnings Details" = "تفاصيل الأرباح";
+"Balance Due" = "الرصيد المستحق";
+"Rides" = "ركوب الخيل";
+"Select Subscription" = "حدد الاشتراك";
+"Manage Your Documents" = "إدارة المستندات الخاصة بك";
+"Expiry: " = "انقضاء: ";
+"Uploaded on: " = "تم الرفع على: ";
+"Add Receiver's Signature Below" = "إضافة التوقيع المتلقي أدناه";
+"Note: OTP Received on User Application" = "ملاحظة: مكتب المدعي العام وردت على طلب العضو";
+"Contact" = "اتصل";
+"CANCEL" = "إلغاء";
+"Receiver Details" = "تفاصيل استقبال";
+"Name" = "اسم";
+"Receiver Details" = "تفاصيل استقبال";
+"Submit" = "إرسال";
+"Enter Receiver's Name" = "أدخل اسم المستلم";
+"Enter OTP" = "أدخل OTP";
+"Receiver Details" = "تفاصيل استقبال";
+"Receiver's Contact" = "المتلقي الاتصال";
+"Product's Details" = "تفاصيل المنتج";
+"Product's Images" = "صور المنتج";
+"Receiver's Details" = "المتلقي تفاصيل";
+"Receiver's Name" = "إسم المستلم";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

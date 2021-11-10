@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" indentationWidth="10" reuseIdentifier="expiredVehicleCell" id="nFc-gd-zxR" customClass="ExpiredVehicleDetailCell" customModule="ApporioTaxiDriver" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="250"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="nFc-gd-zxR" id="IJc-vH-zrb">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="249.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="y9D-Tq-TCC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="249.5"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="App logo" translatesAutoresizingMaskIntoConstraints="NO" id="Gun-wc-vr5">
+                                <rect key="frame" x="0.0" y="0.0" width="80" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="OML-Wl-dFg"/>
+                                    <constraint firstAttribute="height" constant="100" id="yWJ-yN-7q5"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BMW | 3 Series" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="14M-Zi-tei">
+                                <rect key="frame" x="88" y="18" width="129" height="21"/>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="18"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Vehicle No - DL7878" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="K8o-dR-DDy">
+                                <rect key="frame" x="88" y="54" width="142" height="18"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="UrJ-KW-ewb">
+                                <rect key="frame" x="0.0" y="100" width="375" height="148.5"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </tableView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="tY9-br-1Wp">
+                                <rect key="frame" x="0.0" y="248.5" width="375" height="1"/>
+                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="foF-QD-hTU"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="14M-Zi-tei" firstAttribute="top" secondItem="Gun-wc-vr5" secondAttribute="top" constant="18" id="0sl-at-5uZ"/>
+                            <constraint firstItem="K8o-dR-DDy" firstAttribute="leading" secondItem="Gun-wc-vr5" secondAttribute="trailing" constant="8" id="4pV-Fu-STN"/>
+                            <constraint firstItem="14M-Zi-tei" firstAttribute="leading" secondItem="Gun-wc-vr5" secondAttribute="trailing" constant="8" id="Bfy-0p-CXx"/>
+                            <constraint firstAttribute="trailing" secondItem="UrJ-KW-ewb" secondAttribute="trailing" id="FmZ-U5-mld"/>
+                            <constraint firstAttribute="bottom" secondItem="tY9-br-1Wp" secondAttribute="bottom" id="Ifr-A9-DNI"/>
+                            <constraint firstItem="UrJ-KW-ewb" firstAttribute="leading" secondItem="y9D-Tq-TCC" secondAttribute="leading" id="Nb1-Oz-eJu"/>
+                            <constraint firstItem="tY9-br-1Wp" firstAttribute="top" secondItem="UrJ-KW-ewb" secondAttribute="bottom" id="Rqy-XJ-2TT"/>
+                            <constraint firstItem="Gun-wc-vr5" firstAttribute="top" secondItem="y9D-Tq-TCC" secondAttribute="top" id="T3y-bN-7TC"/>
+                            <constraint firstItem="Gun-wc-vr5" firstAttribute="leading" secondItem="y9D-Tq-TCC" secondAttribute="leading" id="VIL-sT-ubY"/>
+                            <constraint firstItem="tY9-br-1Wp" firstAttribute="leading" secondItem="y9D-Tq-TCC" secondAttribute="leading" id="ZIt-7F-XVr"/>
+                            <constraint firstItem="UrJ-KW-ewb" firstAttribute="top" secondItem="Gun-wc-vr5" secondAttribute="bottom" id="fGE-9R-qfD"/>
+                            <constraint firstAttribute="trailing" secondItem="tY9-br-1Wp" secondAttribute="trailing" id="l32-I3-cgf"/>
+                            <constraint firstItem="K8o-dR-DDy" firstAttribute="top" secondItem="14M-Zi-tei" secondAttribute="bottom" constant="15" id="rqN-sY-yiG"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="y9D-Tq-TCC" firstAttribute="leading" secondItem="IJc-vH-zrb" secondAttribute="leading" id="5C4-Ei-9m0"/>
+                    <constraint firstAttribute="trailing" secondItem="y9D-Tq-TCC" secondAttribute="trailing" id="9gF-ia-Zt5"/>
+                    <constraint firstAttribute="bottom" secondItem="y9D-Tq-TCC" secondAttribute="bottom" id="ZWg-jJ-fJS"/>
+                    <constraint firstItem="y9D-Tq-TCC" firstAttribute="top" secondItem="IJc-vH-zrb" secondAttribute="top" id="bBK-S8-zTg"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="expiredDocumentTableView" destination="UrJ-KW-ewb" id="FhO-U1-bBe"/>
+                <outlet property="vehicleImage" destination="Gun-wc-vr5" id="Lcl-um-CoM"/>
+                <outlet property="vehicleName" destination="14M-Zi-tei" id="BB4-zy-lZ9"/>
+                <outlet property="vehicleNumber" destination="K8o-dR-DDy" id="Z7t-au-173"/>
+            </connections>
+            <point key="canvasLocation" x="55.200000000000003" y="48.575712143928037"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="App logo" width="100" height="100"/>
+    </resources>
+</document>

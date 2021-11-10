@@ -1,0 +1,1317 @@
+/* 
+  File.strings
+  ApporioTaxiDriver
+
+  Created by apple on 2/23/19.
+  Copyright © 2019 Atul Jain. All rights reserved.
+*/
+
+"Apporio Taxi Driver" = "Apporio Taxi Driver";
+"REGISTER" = "REGISTO";
+"LOGIN" = "ENTRAR";
+"DEMO" = "DEMONSTRA";
+"Alert" = "Alerta";
+"Make sure you logged as Dem in Driver App as well." = "Certifique-se registrado como Dem in Driver App também.";
+"CANCEL" = "CANCELAR";
+"OK" = "Está bem";
+"Login" = "Entrar";
+"Select City" = "Selecione a cidade";
+"Forgot Password?" = "Esqueceu a senha?";
+"Email" = "O email";
+"Phone Number" = "Número de telefone";
+"Please Enter Password" = "Digite a senha";
+"Please Enter Valid Email_Address" = "Por favor insira o endereço de e-mail válido";
+"Please Enter Password" = "Digite a senha";
+"Please Enter Valid Phone Number" = "Por favor, indique número de telefone válido";
+"Register" = "registo";
+"Enter Full Name" = "Insira o nome completo";
+"Enter Email" = "Digite e-mail";
+"Enter Mobile" = "Digite móvel";
+"Enter Password" = "Digite a senha";
+"Gender" = "Gênero";
+"Male" = "Masculino";
+"Female" = "Fêmea";
+"Smoker" = "Fumante";
+"Yes" = "sim";
+"No" = "Não";
+"Select Area" = "Selecione Área";
+"Continue" = "Continuar";
+"Select City" = "Selecione a cidade";
+"Select Option" = "Selecione a Opção";
+"Camera" = "Câmera";
+"Gallery" = "Galeria";
+"Cancel" = "Cancelar";
+"Please Enter Name" = "Por favor, insira Nome";
+"Please Enter Mobile Number First" = "Por favor, indique número de celular Primeira";
+"Password length should not be less then 6" = "Comprimento da senha não deve ser inferior a 6";
+"Please Select Image First" = "Selecione Imagem Primeira";
+"Please Select Area First" = "Selecione Área de Primeira";
+"Please Select Gender First" = "Selecione Sexo Primeira";
+"Please Select Option Regarding Smoke" = "Selecione opção quanto Smoke";
+"Please fill email properly." = "Por favor, preencha e-mail corretamente.";
+"Enter Name" = "Insira o nome";
+"Enter Phone/Email" = "Digite Telefone / Email";
+"Please enter your name and details for the identification of your demo driver" = "Digite seu nome e detalhes para a identificação do seu driver de demonstração";
+"Login As Demo" = "Sessão de Demo";
+"Or Skip Entering Details" = "Ou ignorar a entrada Detalhes";
+"Add Vehicle" = "Adicionar Veículo";
+"Create Vehicle" = "Criar Veículo";
+"Select Vehicle Type" = "Selecionar Tipo de Veículo";
+"Click to select" = "Clique para selecionar";
+"Select Vehicle Make" = "Select Veículo faz";
+"Select Vehicle Model" = "Escolha um modelo de veículo";
+"Type of Service" = "Tipo de serviço";
+"Add Vehicle Details" = "Adicionar Detalhes do Veículo";
+"Enter Vehicle number" = "Digite o número de veículos";
+"Enter Vehicle Color" = "Digite cor do veículo";
+"Select Number Plate Image" = "Selecione Número imagem Placa";
+"Select Vehicle Photo" = "Selecione Veículo Foto";
+"Please select vehicle type first" = "Por favor, selecione o tipo de veículo primeiro";
+"Please select vehicle make first" = "Por favor, selecione veículo tornar primeiro";
+"Please select vehicle model first" = "Por favor, selecione modelo do veículo primeiro";
+"Please select type of services" = "Por favor, selecione o tipo de serviços";
+"Please enter car color first" = "Por favor, indique cor do carro primeiro";
+"Please enter vehicle number first" = "Por favor, insira o número primeiro veículo";
+"Please enter vehicle number plate image first" = "Por favor, indique imagem número da placa do veículo primeiro";
+"Please enter vehicle image first" = "Por favor, indique imagem veículo primeiro";
+"Select Type Of Services" = "Escolha um tipo de serviços";
+"Documents" = "documentos";
+"Personal Documents" = "Documentos pessoais";
+"Vehicle Documents" = "Documentos de veículos";
+"Documents Not uploaded" = "Documentos não fez upload";
+"Please upload required document first!" = "Faça o upload de um documento exigido em primeiro lugar!";
+"Document Under Review!" = "Document Under Review!";
+"You document is in under review, we will notify you soon after verifying your document" = "Você documento está no sob revisão, iremos notificá-lo logo depois de verificar o seu documento";
+"Upload Document" = "Carregar Documento";
+"Verification Pending" = "verificação Pendente";
+"Verified" = "Verificado";
+"REJECTED" = "REJEITADO";
+"Trips" = "viagens";
+"Earnings" = "Ganhos";
+"Accounts" = "contas";
+"Wallet" = "Carteira";
+"Settings" = "Definições";
+"Notifications" = "notificações";
+"Live Now" = "Vive agora";
+"Today Trips" = "Hoje Trips";
+"Today Earnings" = "Lucro hoje";
+"Manual Dispatch" = "Despacho manual";
+"Demand Spot" = "demanda Mancha";
+"Upcoming" = "próximos";
+"Online" = "Conectados";
+"Offline" = "desligada";
+"On Going Ride #" = "Going On Passeio #";
+"Manage Bank Details" = "Gerenciar Detalhes Banco";
+"Bank Name" = "Nome do banco";
+"Account Name" = "Nome da conta";
+"Account Number" = "Número da conta";
+"SUBMIT" = "ENVIAR";
+"Manage Your Profile" = "Gerir o Perfil";
+"EDIT" = "EDITAR";
+"Total Rides" = "total de Rides";
+"Your Ratings" = "classificaria o seu clube";
+"Your Earnings" = "seus ganhos";
+"Change Password" = "Mudar senha";
+"Logout" = "Sair";
+"Manage Bank Details" = "Gerenciar Detalhes Banco";
+"Manage Home Address" = "Gerencia Home Endereço";
+"Manage Personal Documents" = "Gerenciar documentos pessoais";
+"Edit Your Profile" = "Edite seu perfil";
+"Your Name" = "Seu nome";
+"Phone" = "telefone";
+"SAVE" = "SALVE ";
+"Log Out" = "Sair";
+"Are You Sure to Log Out ?" = "Tem certeza que deseja sair?";
+"Confirm" = "confirme";
+"Verify Your Phone Number" = "Verifique seu número de telefone";
+"Verify Your Email" = "Verifique seu e-mail";
+"Enter Phone" = "Digite Telefone";
+"GET OTP" = "GET OTP";
+"Select Country" = "Selecione o pais";
+"Please enter the One Time Password(OTP) recieved on your number!" = "Digite o One Time Password (OTP) recebeu em seu número!";
+"ENTER OTP" = "ENTER OTP";
+"Re-enter Phone" = "Re-enter Telefone";
+"Continue" = "Continuar";
+"phone number should exist between " = "número de telefone deve existir entre";
+" digits." = " dígitos.";
+"Please Enter Valid OTP" = "Por favor, indique Válido OTP";
+"Upcoming Trips" = "próximas viagens";
+"New Request" = "Novo pedido";
+"Outstation" = "outstation";
+"Your Trips" = "suas viagens";
+"On Going" = "Em progresso";
+"Scheduled" = "programado";
+"Past Trips" = "Viagens últimos";
+"Date Range" = "Intervalo de datas";
+"Weekly Earnings" = "ganhos semanais";
+"Total Trips" = "total de Viagens";
+"Your Earnings" = "seus ganhos";
+"Total Trips" = "total de Viagens";
+"Weekly Earnings" = "ganhos semanais";
+"Total Outstanding(If Any)" = "Total em circulação (se houver)";
+"You need to provide data for the chart." = "Você precisa fornecer dados para o gráfico.";
+"Weekly Statement" = "Declaração Weekly";
+"Total Earning" = "Ganhando total";
+"Completed Trips" = "Viagens concluídas";
+"Trips Earnings" = "Viagens Earnings";
+"Total Billed To Customer" = "Total cobrado de Cliente";
+"Commision Deducted" = "comissão Deduzido";
+"Net Earned" = "líquido auferido";
+"Daily Earning" = "Ganhando diária";
+"Acceptance Rate" = "Taxa de aceitação";
+"Online Time" = "Tempo online";
+"Overall Rating" = "Avaliação geral";
+"Total billed to customer" = "Faturado a clientes";
+"SEND" = "MANDAR";
+"DO YOU HAVE A QUERY" = "VOCE TEM UMA PERGUNTA";
+"Please let us know about your query,our support team will get back to you" = "Por favor, informe-nos sobre a sua consulta, nossa equipe de suporte irá voltar para você";
+"Name" = "Nome";
+"your Query" = "Sua pergunta";
+"Please Check Your Name" = "Verifique o nome";
+"Please Check Your Email" = "Por favor verifique seu email";
+"Wrong Email format " = "formato de e-mail errado";
+" Email id must not contain space " = " Email id não deve conter espaço";
+"Please Check Your Query is blank" = "Por favor verifique suas consultas está em branco";
+"About Us" = "Sobre nós";
+"Version Name : " = "Nome Versão:";
+"Terms & Conditions" = "termos e Condições";
+"Change Password" = "Mudar senha";
+"New Password" = "Nova senha";
+"Password" = "Senha";
+"Confirm Password" = "Confirme a Senha";
+"Done" = "Feito";
+"Password Shoud Not Be Less Then 6" = "Senha Shoud Não ser inferior a 6";
+"Password Does Not Match" = "Senha não corresponde";
+"Old Password" = "Senha Antiga";
+"Confirm Password" = "Confirme a Senha";
+"DONE" = "FEITO";
+"Password Does Not Match" = "Senha não corresponde";
+"Pick From" = "escolher a partir de";
+"Package Name" = "Nome do pacote";
+"Reject Ride" = "rejeitar passeio";
+"Cash To Be Collected" = "Dinheiro a ser recolhida";
+"Please confirm this reciept with the customer" = "Por favor, confirme esse recibo com o cliente";
+"Pick" = "Escolher";
+"Drop" = "Solta";
+"View Reciept" = "Ver Reciept";
+"Reciept" = "reciept";
+"Rate User" = "taxa de Usuário";
+"Comment(If Any)" = "Comentário (se houver)";
+"Submit" = "Enviar";
+"Please Give Rating First" = "Por favor, dê Avaliação Primeira";
+"Set Your Destination" = "Definir o seu destino";
+"Turn on your Destination" = "Ligue o Destino";
+"Destination Address" = "Endereço de destino";
+"ACTIVATED" = "ATIVADO";
+"DEACTIVATED" = "DESATIVADO";
+"Getting Location.." = "Obtendo Location ..";
+"User Details" = "Detalhes do usuario";
+"Pick From" = "escolher a partir de";
+"Set your drop point" = "Defina o seu ponto de queda";
+"Drop Point" = "Ponto de descida";
+"Start Ride" = "Iniciar passeio";
+"Enter User Phone" = "Digite usuário Telefone";
+"Please enter drop location first." = "Por favor, indique cair localização em primeiro lugar.";
+"Back" = "De volta";
+"Please Upload a photo of your meter of your car or motorcycle" = "Faça o upload de uma foto de seu medidor de seu carro ou moto";
+"Ok" = "Está bem";
+"Enter meter value" = "Introduzir o valor do medidor";
+"Add Details" = "Adicionar detalhes";
+"Please first add Meter Reading Image " = "Por favor, adicione primeira leitura de medidor Imagem";
+"Add Details" = "Adicionar detalhes";
+"Please first add Meter Reading value " = "Por favor, primeiro adicionar valor Meter Reading";
+"Upload a good quality of your document in order to submit your application" = "Carregue uma boa qualidade do seu documento, a fim de apresentar a sua candidatura";
+"Enter Expiry date of your document" = "Insira a data de validade do seu documento";
+"Upload Documents" = "upload de documentos";
+"Please upload document image first " = "Faça o upload de imagem do documento primeiro";
+"Please enter document Expiration Date" = "Por favor, indique documento Data de Validade";
+"Version" = "Versão";
+"Auto Upgrade" = "atualização automática";
+"App Settings" = "Configurações do aplicativo";
+"Pool Ride" = "piscina passeio";
+"Language" = "Língua";
+"APP SETTINGS" = "CONFIGURAÇÕES DO APLICATIVO";
+"SUPPORT" = "APOIO, SUPORTE";
+"Customer Support" = "Suporte ao cliente";
+"Report Issue" = "relatório do problema";
+"INFORMATION" = "EM FORMAÇÃO";
+"Terms and Conditions" = "Termos e Condições";
+"ABOUT US" = "SOBRE NÓS";
+"Select Language" = "Selecione o idioma";
+"Please Choose Language" = "Por favor Escolher o idioma";
+"Report Issue Regarding TaxiDriver App" = "Relatório do problema Em relação TaxiDriver App";
+"Sending e-mail in-app is not so bad!" = "Envio de e-mail in-app não é tão ruim!";
+"Could Not Send Email" = "Não foi possível enviar Email";
+"Your device could not send e-mail. Please check e-mail configuration and try again." = "O dispositivo não pode enviar e-mail. Por favor, verifique a configuração de e-mail e tente novamente.";
+"USE IN CASE OF EMERGENCY" = "USO EM CASO DE EMERGÊNCIA";
+"Call Police Control Room" = "Chamada Control Room Polícia";
+"Call Your Emergency Contact" = "Call Your Emergency Contact";
+"CLOSE" = "PERTO";
+"Select Emergency Contact" = "Selecionar Contato de Emergência";
+"OTP Verification" = "Verificação OTP";
+"Trip Details" = "detalhes da viagem";
+"Manage Personal Documents" = "Gerenciar documentos pessoais";
+"Payment" = "Forma de pagamento";
+"Call" = "Ligar";
+"Chat" = "Bate-papo";
+"Please select drop location first" = "Por favor, selecione drop primeiro";
+"Select Navigation App" = "Selecione Navigation App";
+"Selection" = "Seleção";
+"EMERGENCY FOR CALL" = "EMERGÊNCIA PARA CHAMAR";
+"Are You in problem ?" = "Você está em problema?";
+"Yes" = "sim";
+"No" = "Não";
+"Enter OTP" = "Digite OTP";
+"Enter vehicle id i.e 000001" = "Digite veículo id ou seja 000001";
+"Otp has been sent to admin driver" = "Otp foi enviado ao motorista administrador";
+"Please enter vehicle id first" = "Por favor, indique id primeiro veículo";
+"Please Enter OTP" = "Por favor, indique OTP";
+"DONE" = "FEITO";
+"New Vehicle" = "New Vehicle";
+"Existing Vehicle" = "Veículo existente";
+"Vehicle Information" = "Informações do veículo";
+"Add Money" = "Adicionar dinheiro";
+"Add Money To Wallet" = "Colocar mais dinheiro na carteira";
+"It's quick safe & secure" = "É rápido seguro e seguro";
+"Select Payment Method" = "Selecione o método de pagamento";
+"Wallet" = "Carteira";
+"Avilable Balance" = "Equilíbrio avilable";
+"Recent Transactions" = "Transações recentes";
+"Your Home Address" = "Seu endereço residencial";
+"Save Address" = "salvar endereço";
+"SAVE" = "SALVE ";
+"Add New" = "Adicionar novo";
+"Manage Vehicles" = "Gerenciar Veículos";
+"Add More Vehicle" = "Adicionar mais Vehicle";
+"Activated Vehicle" = "Veículo activado";
+"Services" = "Serviços";
+"Your Other Vehicle" = "Seu outro veículo";
+"+ Add New" = "+ Adicionar novo";
+"Start Date" = "Data de início";
+"End Date" = "Data final";
+"select date" = "Selecione a data";
+"select date" = "Selecione a data";
+"Driver Ratings" = "Pontuações motorista";
+"Daily" = "Diariamente";
+"Weekly" = "Semanal";
+"Monthly" = "Por mês";
+"Please select date first" = "Por favor seleccione primeira data";
+"Terms And Condition" = "Termos e Condições";
+"First Name" = "Primeiro nome";
+"Last Name" = "Último nome";
+"Enter First Name" = "Introduza o primeiro nome";
+"Enter Last Name" = "Insira o último nome";
+"Please Enter First Name" = "Por favor, insira Nome";
+"Owner Name" = "Nome do proprietário";
+"Owner Number" = "Número proprietário";
+"Owner Email" = "proprietário Email";
+"Owner Bank Name" = "Nome Proprietário Banco";
+"Owner Bank Code" = "Proprietário Código do banco";
+"Owner Account No." = "Conta proprietário No.";
+"Owner Cheque Image" = "Proprietário de verificação de imagem";
+"Owner Name" = "Nome do proprietário";
+"Owner Number" = "Número proprietário";
+"Owner Email" = "proprietário Email";
+"Owner Bank Name" = "Nome Proprietário Banco";
+"Owner Bank Code" = "Proprietário Código do banco";
+"Owner Account No." = "Conta proprietário No.";
+"Owner Cheque Image" = "Proprietário de verificação de imagem";
+"Please Enter Vehicle Owner Name" = "Por favor, indique nome do veículo proprietário";
+"Please Enter Owner Number" = "Por favor, indique proprietário do número de";
+"Please Enter Valid Owner Number" = "Por favor, indique proprietário do número válido";
+"Please Enter Valid Email" = "Por favor, indique Válido Email";
+"Please Enter Owner Bank Code" = "Por favor, indique proprietário Código do banco";
+"Please Enter Owner Bank Name" = "Por favor, indique nome do proprietário do Banco";
+"Please Enter Owner Account No" = "Por favor, indique dono da conta Não";
+"Please Upload Owner Cheque Image" = "Faça o upload de titular do cheque Imagem";
+"Please enter phone number first." = "Por favor, indique o número de telefone em primeiro lugar.";
+"Country ID is not correct" = "País ID não é correto";
+"ACCEPT" = "ACEITAR";
+"Please Accept Terms And Conditions" = "Por favor, aceite os Termos e Condições";
+"Please Accept Terms And Conditions First" = "Por favor, aceite os Termos e Condições Primeira";
+"Terms and conditions has been changed." = "Termos e condições foi alterado.";
+"Privacy Policy" = "Política de Privacidade";
+"EXPIRED" = "EXPIRADO";
+"Refer & Earn" = "Consulte e Ganhe";
+"Refer Code and Earn More" = "Consulte Código e ganhar mais";
+"Start Date" = "Data de início";
+"End Date" = "Data final";
+"Share your code" = "Compartilhe seu código";
+"Refer & Earn" = "Consulte e Ganhe";
+"Personal Documents" = "Documentos pessoais";
+"Vehicle Documents" = "Documentos de veículos";
+"Est. Fare" = "Husa. Tarifa";
+"Est. Distance" = "Husa. Distância";
+"Super Driver" = "Super driver";
+"Document Rejected, Please Contact to admin" = "Documento rejeitado, entre em contato com o administrador";
+"Are you sure you want to activate the vehicle?" = "Tem certeza de que deseja ativar o veículo?";
+"Activate" = "Ativar";
+"Already live by another driver" = "Já mora por outro motorista";
+"View Receipt" = "Veja o recibo";
+"Promotions" = "promoções";
+"Enter User Name" = "Insira nome de usuário";
+"Set Radius" = "Set Radius";
+"Get Started" = "Iniciar";
+"Drag the marker to the location from where you want to receive the user requests for ride." = "Arraste o marcador para o local de onde deseja receber as solicitações dos usuários para passeio.";
+"Then set the Radius(e.g. 10) in the field below." = "Em seguida, definir o raio (por exemplo. 10) no campo abaixo.";
+"NOTE : You will only get the requests from user under the defined radius." = "NOTA: Você só vai ter os pedidos de utilizador sob o raio definido.";
+"Set Radius on Map" = "Definir Radius no mapa";
+"Makes Your Trip Planning Easy" = "Faz sua viagem Planejamento Fácil";
+"Choose Location" = "Escolha a localização";
+"Set a Radius" = "Definir um raio";
+"SUBMIT" = "ENVIAR";
+"Est. Fare : " = "Husa. tarifa:";
+"Est. Time : " = "Husa. Tempo :";
+"Version" = "Versão";
+"Select date" = "Selecione a data";
+"Select Date" = "Selecione a data";
+"Weekly Rides" = "Rides semanais";
+"Allow user to smoke" = "Permitir que o usuário para fumar";
+"Currently Activated" = "Atualmente ativado";
+"About Package" = "Sobre o pacote";
+"Validity" = "Validade";
+"No of Rides" = "Não de passeios";
+"Service" = "Serviço";
+"Valid Till" = "Válida até";
+"Rides Left" = "Passeios à esquerda";
+"Active Subscription" = "Assinatura Ativa";
+"Maximum Rides" = "Passeios Máximos";
+"Renew" = "Renovar";
+"View Detail" = "Ver detalhes";
+"Subscriptions Packs" = "Assinaturas Packs";
+"Subscriptions Pack Details" = "Assinaturas detalhes do pacote";
+"Description" = "Descrição";
+"Package Duration : " = "Pacote Duração:";
+"Max Trips : " = "Viagens Max:";
+"Auto On" = "Auto On";
+"Auto Off" = "Auto Off";
+"ALL" = "TODOS";
+"PAID" = "PAGO";
+"RECEIVED" = "RECEBIDO";
+"Payment not successful" = "O pagamento não for bem sucedida";
+"Manage Your Cards" = "Gerenciar seus cartões";
+"Add New" = "Adicionar novo";
+"Add Card" = "Adicionar cartão";
+"ENTER CARD NUMBER" = "ENTER NÚMERO CARTÃO";
+"NEXT" = "PRÓXIMO";
+"MM/YYYY" = "MM / AAAA";
+"CVV" = "CVV";
+"Emergency Contacts" = "emergência Contactos";
+"Emergency Contact" = "Contato de emergência";
+"ADD" = "ADICIONAR";
+"Select Country" = "Selecione o pais";
+"Cancel" = "Cancelar";
+"Ok" = "Está bem";
+"Add Contact" = "Adicionar contato";
+"Enter Phone" = "Digite Telefone";
+"ADD" = "ADICIONAR";
+"Enter Name" = "Insira o nome";
+"Go to Ride" = "Ir para montar";
+"IFSC Code" = "Código IFSC";
+"Filter" = "Filtro";
+"Your Ratings" = "classificaria o seu clube";
+"Baby Seat Availablity" = "Availablity assento de bebê";
+"Enter Refer Code" = "Digite Consulte Código";
+"Driver's Personal Documents" = "Documentos pessoais do condutor";
+"Accept Ride" = "Aceite o passeio";
+"Navigate" = "Navegar";
+"All" = "Todos";
+"Paid" = "Pago";
+"Received" = "Recebido";
+"Select Subscription" = "Select Subscription";
+"Select Subscription Package" = "Escolha um pacote de assinatura";
+"Please select type of Model" = "Por favor, selecione o tipo de modelo";
+"Select type of Model" = "Selecione o tipo de modelo";
+"Enter bank name first" = "Inserir o nome do banco de primeira";
+"Enter account name first" = "Digite o nome da conta primeiro";
+"Enter account number first" = "Digite o número de conta em primeiro lugar";
+"Enter online code first" = "Introduza o código online";
+"Mutilple Stops" = "Mutilple Stops";
+"Otp Send On Entered Number" = "Otp Enviar em número digitado";
+"Earnings Details" = "ganhos Detalhes";
+"Balance Due" = "Saldo devedor";
+"Rides" = "Rides";
+"Select Subscription" = "Select Subscription";
+"Manage Your Documents" = "Gerenciar seus documentos";
+"Expiry: " = "Termo: ";
+"Uploaded on: " = "Carregado em: ";
+"Add Receiver's Signature Below" = "Adicionar assinatura do Receptor Abaixo";
+"Note: OTP Received on User Application" = "Nota: OTP Recebido em Aplicativo de Usuário";
+"Contact" = "Contato";
+"CANCEL" = "CANCELAR";
+"Receiver Details" = "receiver Detalhes";
+"Name" = "Nome";
+"Receiver Details" = "receiver Detalhes";
+"Submit" = "Enviar";
+"Enter Receiver's Name" = "Digite o nome do Receptor";
+"Enter OTP" = "Digite OTP";
+"Receiver Details" = "receiver Detalhes";
+"Receiver's Contact" = "Contato do receptor";
+"Product's Details" = "Detalhes do produto";
+"Product's Images" = "Imagens de produtos";
+"Receiver's Details" = "Detalhes do receptor";
+"Receiver's Name" = "Nome do destinatário";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

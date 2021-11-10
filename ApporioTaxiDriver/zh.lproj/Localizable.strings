@@ -1,0 +1,994 @@
+/* 
+  File.strings
+  ApporioTaxiDriver
+
+  Created by apple on 2/23/19.
+  Copyright © 2019 Atul Jain. All rights reserved.
+*/
+
+"Ship now Driver" = "发货现在驱动程序";
+"REGISTER" = "寄存器";
+"LOGIN" = "登录";
+"DEMO" = "DEMO";
+"Alert" = "警报";
+"Make sure you logged as Demo in Driver App as well." = "确保在驱动应用程序记录为演示以及。";
+"CANCEL" = "取消";
+"OK" = "好";
+"Login" = "登录";
+"Select City" = "选择城市";
+"Forgot Password?" = "忘记密码？";
+"Email" = "电子邮件";
+"Phone Number" = "电话号码";
+"Please Enter Password" = "请输入密码";
+"Please Enter Valid Email_Address" = "请输入有效的电子邮件地址";
+"Please Enter Password" = "请输入密码";
+"Please Enter Valid Phone Number" = "请输入有效的电话号码";
+"Register" = "寄存器";
+"Enter Full Name" = "输入全名";
+"Enter Email" = "输入电子邮件";
+"Enter Mobile" = "输入手机";
+"Enter Password" = "输入密码";
+"Gender" = "性别";
+"Male" = "男";
+"Female" = "女";
+"Smoker" = "抽烟者";
+"Yes" = "是";
+"No" = "没有";
+"Select Area" = "选择区域";
+"Continue" = "继续";
+"Select City" = "选择城市";
+"Select Option" = "选择选项";
+"Camera" = "相机";
+"Gallery" = "画廊";
+"Cancel" = "取消";
+"Please Enter Name" = "请输入姓名";
+"Please Enter Mobile Number First" = "请输入手机号码一";
+"Password length should not be less then 6" = "密码长度不应小于6";
+"Please Select Image First" = "请选择图片第一";
+"Please Select Area First" = "请选择地区第一";
+"Please Select Gender First" = "请选择性别第一";
+"Please Select Option Regarding Smoke" = "请选择选项有关烟";
+"Please fill email properly." = "请正确填写电子邮件。";
+"Enter Name" = "输入名字";
+"Enter Phone/Email" = "输入电话/电子邮件";
+"Please enter your name and details for the identification of your demo driver" = "请输入您的姓名和详细信息您的演示驱动器的标识";
+"Login As Demo" = "登录作为演示";
+"Or Skip Entering Details" = "或跳过进入详细";
+"Add Vehicle" = "添加车辆";
+"Create Vehicle" = "创建车辆";
+"Select Vehicle Type" = "选择车型";
+"Click to select" = "单击选择";
+"Select Vehicle Make" = "选择车辆品牌";
+"Select Vehicle Model" = "选择车辆模型";
+"Type of Service" = "服务类型";
+"Add Vehicle Details" = "加入车辆细节";
+"Enter Vehicle number" = "输入车号";
+"Enter Vehicle Color" = "进入车身颜色";
+"Select Number Plate Image" = "选择车牌图片";
+"Select Vehicle Photo" = "选择车辆照片";
+"Please select vehicle type first" = "首先请选择车型";
+"Please select vehicle make first" = "首先请选择车辆品牌";
+"Please select vehicle model first" = "首先请选择车型";
+"Please select type of services" = "请选择服务类型";
+"Please enter car color first" = "请先输入汽车颜色";
+"Please enter vehicle number first" = "请先输入车辆号码";
+"Please enter vehicle number plate image first" = "请先输入车辆号牌图像";
+"Please enter vehicle image first" = "请先输入车辆图像";
+"Select Type Of Services" = "选择服务类型";
+"Documents" = "文件";
+"Personal Documents" = "个人文档";
+"Vehicle Documents" = "车辆证件";
+"Documents Not uploaded" = "文件不上传";
+"Please upload required document first!" = "请先上传需要的文件！";
+"Document Under Review!" = "在审查文件！";
+"You document is in under review, we will notify you soon after verifying your document" = "您文件是在审查中，我们将验证您的文档后尽快通知您";
+"Upload Document" = "上传文档";
+"Verification Pending" = "等待验证";
+"Verified" = "验证";
+"REJECTED" = "拒绝";
+"Trips" = "旅行";
+"Earnings" = "收益";
+"Accounts" = "帐号";
+"Wallet" = "钱包";
+"Settings" = "设置";
+"Notifications" = "通知";
+"Live Now" = "现居住";
+"Today Trips" = "今天的旅行";
+"Today Earnings" = "今天收益";
+"Manual Dispatch" = "手动调度";
+"Demand Spot" = "诉求点";
+"Upcoming" = "即将到来";
+"Online" = "线上";
+"Offline" = "离线";
+"On Going Ride #" = "要去骑＃";
+"Manage Bank Details" = "管理银行详细资料";
+"Bank Name" = "银行名称";
+"Account Name" = "用户名";
+"Account Number" = "账号";
+"SUBMIT" = "提交";
+"Manage Your Profile" = "个人信息";
+"EDIT" = "编辑";
+"Total Rides" = "总游戏机";
+"Your Ratings" = "您的等级";
+"Your Earnings" = "您的收入";
+"Change Password" = "更改密码";
+"Logout" = "登出";
+"Manage Bank Details" = "管理银行详细资料";
+"Manage Home Address" = "管理家庭地址";
+"Manage Personal Documents" = "管理个人文档";
+"Edit Your Profile" = "编辑您的个人资料";
+"Your Name" = "你的名字";
+"Phone" = "电话";
+"SAVE" = "保存";
+"Log Out" = "登出";
+"Are You Sure to Log Out ?" = "您确定要注销？";
+"Confirm" = "确认";
+"Verify Your Phone Number" = "验证手机号码";
+"Enter Phone" = "输入电话号码";
+"GET OTP" = "GET OTP";
+"Select Country" = "选择国家";
+"Please enter the One Time Password(OTP) recieved on your number!" = "请输入收到你的号码的一次性密码（OTP）！";
+"ENTER OTP" = "ENTER OTP";
+"Re-enter Phone" = "重新输入电话";
+"Continue" = "继续";
+"phone number should exist between " = "电话号码之间应该存在";
+" digits." = " 数字。";
+"Please Enter Valid OTP" = "请输入有效的OTP";
+"Upcoming Trips" = "即将到来的旅行";
+"New Request" = "新要求";
+"Outstation" = "分站";
+"Your Trips" = "您的旅行";
+"On Going" = "要去";
+"Scheduled" = "计划";
+"Past Trips" = "过去的行程";
+"Date Range" = "日期范围";
+"Weekly Earnings" = "周薪";
+"Total Trips" = "总跳闸";
+"Your Earnings" = "您的收入";
+"Total Trips" = "总跳闸";
+"Weekly Earnings" = "周薪";
+"Total Outstanding(If Any)" = "总街货量（如果有的话）";
+"You need to provide data for the chart." = "您需要为图表提供数据。";
+"Weekly Statement" = "每周声明";
+"Total Earning" = "总营收";
+"Completed Trips" = "完成旅程";
+"Trips Earnings" = "旅行盈利";
+"Total Billed To Customer" = "帐单总要客户";
+"Commision Deducted" = "扣除的佣金";
+"Net Earned" = "净赚";
+"Daily Earning" = "每日收益";
+"Acceptance Rate" = "录取率";
+"Online Time" = "在线时间";
+"Overall Rating" = "总体评分";
+"Total billed to customer" = "总结算客户";
+"SEND" = "发送";
+"DO YOU HAVE A QUERY" = "你有一个查询";
+"Please let us know about your query,our support team will get back to you" = "请让我们知道您的查询，我们的支持团队会尽快回复您";
+"Name" = "名称";
+"your Query" = "您的查询";
+"Please Check Your Name" = "请检查您的姓名";
+"Please Check Your Email" = "请检查您的电子邮件";
+"Wrong Email format " = "错误的电子邮件格式";
+" Email id must not contain space " = " 电子邮件ID不能包含空格";
+"Please Check Your Query is blank" = "请检查您的查询为空";
+"About Us" = "关于我们";
+"Version Name : " = "版本名称：";
+"Terms & Conditions" = "条款和条件";
+"Change Password" = "更改密码";
+"New Password" = "新密码";
+"Password" = "密码";
+"Confirm Password" = "确认密码";
+"Done" = "完成";
+"Password Shoud Not Be Less Then 6" = "密码768,16不小于6";
+"Password Does Not Match" = "密码不匹配";
+"Old Password" = "旧密码";
+"Confirm Password" = "确认密码";
+"DONE" = "DONE";
+"Password Does Not Match" = "密码不匹配";
+"Pick From" = "从这里选择";
+"Package Name" = "包裹名字";
+"Reject Ride" = "拒绝乘坐";
+"Cash To Be Collected" = "现金被收集";
+"Please confirm this reciept with the customer" = "请确认该收据与客户";
+"Pick" = "挑";
+"Drop" = "下降";
+"View Reciept" = "查看收据";
+"Reciept" = "收据";
+"Rate User" = "速率用户";
+"Comment(If Any)" = "评论（如果有的话）";
+"Submit" = "提交";
+"Please Give Rating First" = "请给予评分第一";
+"Set Your Destination" = "设置旅游目的地";
+"Turn on your Destination" = "打开你的目的地";
+"Destination Address" = "目的地址";
+"ACTIVATED" = "活性";
+"DEACTIVATED" = "DEACTIVATED";
+"Getting Location.." = "获取地点..";
+"User Details" = "用户详细信息";
+"Pick From" = "从这里选择";
+"Set your drop point" = "设置您的滴点";
+"Drop Point" = "滴点";
+"Start Ride" = "开始骑";
+"Enter User Phone" = "输入用户手机";
+"Please enter drop location first." = "请先输入放置位置。";
+"Back" = "背部";
+"Please Upload a photo of your meter of your car or motorcycle" = "请上传您的汽车或摩托车的仪表的照片";
+"Ok" = "好";
+"Enter meter value" = "输入计值";
+"Add Details" = "添加详细信息";
+"Please first add Meter Reading Image " = "请先添加抄表图片";
+"Add Details" = "添加详细信息";
+"Please first add Meter Reading value " = "请先添加抄表值";
+"Upload a good quality of your document in order to submit your application" = "上传文档的质量好，以提交您的申请";
+"Enter Expiry date of your document" = "输入您的文档的有效期";
+"Upload Documents" = "上传文件";
+"Please upload document image first " = "请先上传文档图像";
+"Please enter document Expiration Date" = "请输入文件截止日期";
+"Version" = "版";
+"Auto Upgrade" = "自动升级";
+"App Settings" = "应用程序设置";
+"Pool Ride" = "池骑";
+"Language" = "语言";
+"APP SETTINGS" = "应用程序设置";
+"SUPPORT" = "支持";
+"Customer Support" = "客户支持";
+"Report Issue" = "报告问题";
+"INFORMATION" = "信息";
+"Terms and Conditions" = "条款和条件";
+"ABOUT US" = "关于我们";
+"Select Language" = "选择语言";
+"Please Choose Language" = "请选择语言";
+"Report Issue Regarding TaxiDriver App" = "报告问题关于出租车司机应用程序";
+"Sending e-mail in-app is not so bad!" = "在应用程序内发送电子邮件并没有那么糟糕！";
+"Could Not Send Email" = "无法发送电子邮件";
+"Your device could not send e-mail. Please check e-mail configuration and try again." = "您的设备无法发送电子邮件。请检查电子邮件配置，然后再试一次。";
+"USE IN CASE OF EMERGENCY" = "USE IN CASE紧急";
+"Call Police Control Room" = "呼叫警察控制中心";
+"Call Your Emergency Contact" = "打电话给你的紧急联络人";
+"CLOSE" = "关";
+"Select Emergency Contact" = "选择紧急联络";
+"OTP Verification" = "OTP验证";
+"Trip Details" = "行程的详细信息";
+"Manage Personal Documents" = "管理个人文档";
+"Payment" = "付款";
+"Call" = "呼叫";
+"Chat" = "聊天室";
+"Please select drop location first" = "首先请选择放置位置";
+"Select Navigation App" = "选择导航应用";
+"Selection" = "选择";
+"EMERGENCY FOR CALL" = "紧急对于呼叫";
+"Are You in problem ?" = "你在什么问题？";
+"Yes" = "是";
+"No" = "没有";
+"Enter OTP" = "输入OTP";
+"Enter vehicle id i.e 000001" = "输入车辆ID即000001";
+"Otp has been sent to admin driver" = "OTP已发送到管理员的驱动程序";
+"Please enter vehicle id first" = "请先输入车辆ID";
+"Please Enter OTP" = "请输入OTP";
+"DONE" = "DONE";
+"New Vehicle" = "新车";
+"Existing Vehicle" = "现有车辆";
+"Vehicle Information" = "车辆信息";
+"Add Money" = "加钱";
+"Add Money To Wallet" = "加钱钱包";
+"It's quick safe & secure" = "它的快速安全可靠";
+"Select Payment Method" = "请选择支付方式";
+"Wallet" = "钱包";
+"Avilable Balance" = "即时拍摄平衡";
+"Recent Transactions" = "近期交易";
+"Your Home Address" = "您的家庭住址";
+"Save Address" = "保存地址";
+"SAVE" = "保存";
+"Add New" = "添新";
+"Manage Vehicles" = "管理车辆";
+"Add More Vehicle" = "添加更多车辆";
+"Activated Vehicle" = "启动汽车";
+"Services" = "服务";
+"Your Other Vehicle" = "您的其他车辆";
+"+ Add New" = "+添加新";
+"Start Date" = "开始日期";
+"End Date" = "结束日期";
+"select date" = "选择日期";
+"select date" = "选择日期";
+"Driver Ratings" = "司机评级";
+"Daily" = "日常";
+"Weekly" = "每周";
+"Monthly" = "每月一次";
+"Please select date first" = "首先请选择日期";
+"Terms And Condition" = "附带条约";
+"First Name" = "名字";
+"Last Name" = "姓";
+"Enter First Name" = "输入名字";
+"Enter Last Name" = "输入姓氏";
+"Please Enter First Name" = "请输入名字";
+"Owner Name" = "业主名称";
+"Owner Number" = "机号码";
+"Owner Email" = "所有者电子邮件";
+"Owner Bank Name" = "所有者银行名称";
+"Owner Bank Code" = "所有者银行代码";
+"Owner Account No." = "所有者帐户号";
+"Owner Cheque Image" = "业主支票影像";
+"Owner Name" = "业主名称";
+"Owner Number" = "机号码";
+"Owner Email" = "所有者电子邮件";
+"Owner Bank Name" = "所有者银行名称";
+"Owner Bank Code" = "所有者银行代码";
+"Owner Account No." = "所有者帐户号";
+"Owner Cheque Image" = "业主支票影像";
+"Please Enter Vehicle Owner Name" = "请输入车主姓名";
+"Please Enter Owner Number" = "请输入用户号码";
+"Please Enter Valid Owner Number" = "请输入有效的用户数";
+"Please Enter Valid Email" = "请输入有效电子邮件";
+"Please Enter Owner Bank Code" = "请输入所有者银行代码";
+"Please Enter Owner Bank Name" = "请输入所有者银行名称";
+"Please Enter Owner Account No" = "请输入用户帐号";
+"Please Upload Owner Cheque Image" = "请上传所有者支票影像";
+"Please enter phone number first." = "请先输入电话号码。";
+"Country ID is not correct" = "国家ID是不正确的";
+"ACCEPT" = "接受";
+"Please Accept Terms And Conditions" = "请接受条款及细则";
+"Please Accept Terms And Conditions First" = "请接受条款和条件首先";
+"Terms and conditions has been changed." = "条款和条件已经改变。";
+"Privacy Policy" = "隐私政策";
+"EXPIRED" = "已过期";
+"Document Rejected, Please Contact to admin" = "文档被拒绝，请联系管理员";
+"Are you sure you want to activate the vehicle?" = "你确定你要激活的车辆？";
+"Activate" = "启用";
+"Already live by another driver" = "已经生活由另一名司机";
+"Refer & Earn" = "参阅，赢取您的";
+"Refer Code and Earn More" = "请参考代码，赚取更多的";
+"Start Date" = "开始日期";
+"End Date" = "结束日期";
+"Share your code" = "分享你的代码";
+"Refer & Earn" = "参阅，赢取您的";
+"Personal Documents" = "个人文档";
+"Vehicle Documents" = "车辆证件";
+"Est. Fare" = "美东时间。票价";
+"Est. Distance" = "美东时间。距离";
+"Super Driver" = "超级驱动器";
+"Please go online first." = "请先上网。";
+"Please enter valid otp" = "请输入有效的OTP";
+"View Receipt" = "查看收据";
+"Promotions" = "促销";
+"Enter User Name" = "输入用户名";
+"Set Radius" = "设置RADIUS";
+"Get Started" = "入门";
+"Drag the marker to the location from where you want to receive the user requests for ride." = "标记从要接收骑用户请求拖到位置。";
+"Then set the Radius(e.g. 10) in the field below." = "然后在下面的字段中设置的半径（例如10）。";
+"NOTE : You will only get the requests from user under the defined radius." = "注意：您将只能从用户定义的半径下的请求。";
+"Set Radius on Map" = "设置半径在地图上";
+"Makes Your Trip Planning Easy" = "使您的旅行计划容易";
+"Choose Location" = "选择位置";
+"Set a Radius" = "设置RADIUS";
+"SUBMIT" = "提交";
+"Est. Fare : " = "美东时间。票价：";
+"Est. Time : " = "美东时间。时间 ：";
+"Version" = "版";
+"Select date" = "选择日期";
+"Select Date" = "选择日期";
+"Weekly Rides" = "每周游戏机";
+"Allow user to smoke" = "允许用户烟雾";
+"Subscriptions Packs" = "订阅包";
+"Subscriptions Pack Details" = "订阅包详细信息";
+"Description" = "描述";
+"Package Duration : " = "包装时间：";
+"Max Trips : " = "最大的旅行：";
+"Auto On" = "自动开";
+"Auto Off" = "自动关闭";
+"ALL" = "所有";
+"PAID" = "支付";
+"RECEIVED" = "RECEIVED";
+"Payment not successful" = "付款未成功";
+"Manage Your Cards" = "管理你的卡";
+"Add New" = "添新";
+"Add Card" = "ADD卡";
+"ENTER CARD NUMBER" = "ENTER卡号";
+"NEXT" = "下一个";
+"MM/YYYY" = "MM / YYYY";
+"CVV" = "CVV";
+"Currently Activated" = "当前激活";
+"About Package" = "关于包装";
+"Validity" = "合法性";
+"No of Rides" = "没有游乐设施";
+"Service" = "服务";
+"Valid Till" = "有效期至";
+"Rides Left" = "乘坐左";
+"Active Subscription" = "积极认购";
+"Maximum Rides" = "最大游戏机";
+"Renew" = "更新";
+"View Detail" = "查看详情";
+"Emergency Contacts" = "紧急联络";
+"Emergency Contact" = "紧急联系人";
+"ADD" = "加";
+"Select Country" = "选择国家";
+"Cancel" = "取消";
+"Ok" = "好";
+"Add Contact" = "增加联系人";
+"Enter Phone" = "输入电话号码";
+"ADD" = "加";
+"Enter Name" = "输入名字";
+"Go to Ride" = "去骑";
+"IFSC Code" = "IFSC代码";
+"Filter" = "过滤";
+"Your Ratings" = "您的等级";
+"Baby Seat Availablity" = "婴儿座椅有效性的影响";
+"Enter Refer Code" = "回车参考代码";
+"Driver's Personal Documents" = "驾驶员的个人文件";
+"Accept Ride" = "接受平顺";
+"Navigate" = "导航";
+"All" = "所有";
+"Paid" = "付费";
+"Received" = "收到";
+"Select Subscription" = "选择订阅";
+"Select Subscription Package" = "选择订阅包";
+"Please select type of Model" = "请选择型号类型";
+"Select type of Model" = "模型的选择类型";
+"Enter bank name first" = "先输入银行名称";
+"Enter account name first" = "先输入帐户名";
+"Enter account number first" = "第一输入帐号";
+"Enter online code first" = "首先进入在线代码";
+"Mutilple Stops" = "Mutilple停止";
+"Otp Send On Entered Number" = "OTP寄上输入号码";
+"Earnings Details" = "收入明细";
+"Balance Due" = "余额到期";
+"Rides" = "游戏机";
+"Total Earnings" = "总收入";
+"Manage Your Documents" = "管理文档";
+"Expiry: " = "到期：";
+"Uploaded on: " = "上传于：";
+"Please enter referral code first" = "请先输入推荐码";
+"Child Details :" = "儿童详细信息：";
+"Vehicle Id :" = "车辆ID：";
+"Please Fill All Required Fields" = "请填写所有必填字段";
+"NO Vehicle Activated" = "没有车辆激活";
+"Add Receiver's Signature Below" = "添加收件人签名下面";
+"Note: OTP Received on User Application" = "注：OTP对收到的用户应用程序";
+"Contact" = "联系";
+"CANCEL" = "取消";
+"Receiver Details" = "接收器详细信息";
+"Name" = "名称";
+"Receiver Details" = "接收器详细信息";
+"Submit" = "提交";
+"Enter Receiver's Name" = "输入收件人的姓名";
+"Enter OTP" = "输入OTP";
+"Receiver Details" = "接收器详细信息";
+"Receiver's Contact" = "接收器的联系";
+"Product's Details" = "产品的详细信息";
+"Product's Images" = "商品图片";
+"Receiver's Details" = "接收器的详细信息";
+"Receiver's Name" = "收件人姓名";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
